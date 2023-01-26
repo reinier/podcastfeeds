@@ -1,0 +1,20 @@
+main {
+	max-width: 768px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+img.cover {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 2em;
+}
+
+h1, .listen-to-podcast {
+	text-align: center;
+}
+
+.listen-to-podcast {
+	margin-top: 2em;
+}
