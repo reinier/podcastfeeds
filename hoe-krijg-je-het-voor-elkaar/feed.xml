@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
+  <channel>
+	<fireside:hostname>feed02.fireside.fm</fireside:hostname>
+	<fireside:genDate>Mon, 09 Nov 2020 17:44:49 -0600</fireside:genDate>
+	<generator>Fireside (https://fireside.fm)</generator>
+	<title>Hoe Krijg Je Het Voor Elkaar?</title>
+	<link>https://hoekrijgjehetvoorelkaar.nl</link>
+	<pubDate>Fri, 01 Nov 2019 07:52:18 -0000</pubDate>
+	<description>In de ‘Hoe Krijg Je Het Voor Elkaar?’ podcast gaat Reinier Ladan op onderzoek uit naar hoe mensen werken. Wat kunnen we leren van mensen die efficiënt te werk gaan en dingen snel en goed gedaan krijgen? Hoe zorg je ervoor dat je ja zegt tegen de juiste dingen en daardoor nee zegt tegen de rest? Wat is er allemaal nodig om succesvolle producten en diensten in de markt te zetten? Kun je te ver gaan met productiviteit? Bestaat er een optimale balans tussen je werk- en privéleven? Allemaal vragen die richting geven aan dit onderzoek.
+</description>
+	<language>nl</language>
+	<itunes:type>serial</itunes:type>
+	<itunes:subtitle>Hoe kun je slim, efficiënter, beter en fijner werken?</itunes:subtitle>
+	<itunes:author>Reinier Ladan</itunes:author>
+	<itunes:summary>In de ‘Hoe Krijg Je Het Voor Elkaar?’ podcast gaat Reinier Ladan op onderzoek uit naar hoe mensen werken. Wat kunnen we leren van mensen die efficiënt te werk gaan en dingen snel en goed gedaan krijgen? Hoe zorg je ervoor dat je ja zegt tegen de juiste dingen en daardoor nee zegt tegen de rest? Wat is er allemaal nodig om succesvolle producten en diensten in de markt te zetten? Kun je te ver gaan met productiviteit? Bestaat er een optimale balans tussen je werk- en privéleven? Allemaal vragen die richting geven aan dit onderzoek.
+</itunes:summary>
+	<itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:keywords>werk, productiviteit, work, productivity, research, onderzoek, smart, slim</itunes:keywords>
+	<itunes:owner>
+	  <itunes:name>Reinier Ladan</itunes:name>
+	  <itunes:email>reinier@ladan.email</itunes:email>
+	</itunes:owner>
+	<podcast:locked email="reinier@ladan.email">yes</podcast:locked>
+	<podcast:funding url="https://www.patreon.com/reinier">Support the show!</podcast:funding>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement"/>
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="How To"/>
+</itunes:category>
+<itunes:category text="Business">
+  <itunes:category text="Careers"/>
+</itunes:category>
+	<item>
+	  <title>S01E00. Teaser</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e00</link>
+	  <guid isPermaLink="false">d154b7bb-a4db-457e-8c4f-8bb53e4d0f8e</guid>
+	  <pubDate>Fri, 07 Dec 2018 13:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/d154b7bb-a4db-457e-8c4f-8bb53e4d0f8e.mp3" length="1251795" type="audio/mpeg"/>
+	  <itunes:episodeType>trailer</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>Even een korte introductie zodat je je al kunt abonneren op de podcast voordat de eerste échte aflevering er is.</itunes:subtitle>
+	  <itunes:duration>1:14</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>Even een korte introductie zodat je je al kunt abonneren op de podcast voordat de eerste échte aflevering er is. 
+</description>
+	  <itunes:keywords>teaser, werk, work, productivity, productiviteit</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>Even een korte introductie zodat je je al kunt abonneren op de podcast voordat de eerste échte aflevering er is.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>Even een korte introductie zodat je je al kunt abonneren op de podcast voordat de eerste échte aflevering er is.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+EmDgZKAB</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+EmDgZKAB" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E01. Grip op Rick</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e01</link>
+	  <guid isPermaLink="false">d55afa17-fbed-4cfe-bc0a-7574a0697a98</guid>
+	  <pubDate>Mon, 21 Jan 2019 06:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/d55afa17-fbed-4cfe-bc0a-7574a0697a98.mp3" length="11974746" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In de Hoe Krijg Je Het Voor Elkaar podcast ga ik (Reinier Ladan) op zoek naar hoe je efficiënt en slim kan werken. In seizoen 1 laat ik Rick Pastoor aan het woord over zijn boek Grip en in deze eerste aflevering leren we Rick een beetje beter kennen.</itunes:subtitle>
+	  <itunes:duration>13:53</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>In de eerste aflevering van dit eerste seizoen Hoe Krijg Je Het Voor Elkaar? praat ik met Rick Pastoor over waarom hij het boek Grip is gaan schrijven en wat er allemaal bij komt kijken. Ook leren we Rick een beetje beter kennen en dat is natuurlijk erg fijn want je gaat nog veel meer van Rick horen dit seizoen. Vind je het een fijne podcast en zou je me willen steunen in het maken ervan? Op Patreon vind je hoe je dat kunt doen (https://patreon.com/reinier).
+Handige linkjes naar dingen die in de aflevering naar voren komen
+Bestel het boek waar seizoen 1 over gaat: Grip van Rick pastoor (https://gripboek.nl)
+Meer over Rick Pastoor (https://rickpastoor.com)
+Getting Things Done (https://en.wikipedia.org/wiki/Getting_Things_Done) van David Allen
+De nieuwsbrief van Rick (https://www.getrevue.co/profile/werkslim)
+St. Willibrords Abdij in Doetinchem (https://willibrordsabdij.nl)
+Stel een vraag
+Stel een vraag aan Rick of aan Reinier (https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>introductie, grip, werk, work, productivity, productiviteit</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>In de eerste aflevering van dit eerste seizoen Hoe Krijg Je Het Voor Elkaar? praat ik met Rick Pastoor over waarom hij het boek Grip is gaan schrijven en wat er allemaal bij komt kijken. Ook leren we Rick een beetje beter kennen en dat is natuurlijk erg fijn want je gaat nog veel meer van Rick horen dit seizoen. Vind je het een fijne podcast en zou je me willen steunen in het maken ervan? <a href="https://patreon.com/reinier" rel="nofollow">Op Patreon vind je hoe je dat kunt doen</a>.</p>
+
+<h2>Handige linkjes naar dingen die in de aflevering naar voren komen</h2>
+
+<ul>
+<li><a href="https://gripboek.nl" rel="nofollow">Bestel het boek waar seizoen 1 over gaat: Grip van Rick pastoor</a></li>
+<li><a href="https://rickpastoor.com" rel="nofollow">Meer over Rick Pastoor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Getting_Things_Done" rel="nofollow">Getting Things Done</a> van David Allen</li>
+<li><a href="https://www.getrevue.co/profile/werkslim" rel="nofollow">De nieuwsbrief van Rick</a></li>
+<li><a href="https://willibrordsabdij.nl" rel="nofollow">St. Willibrords Abdij in Doetinchem</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>In de eerste aflevering van dit eerste seizoen Hoe Krijg Je Het Voor Elkaar? praat ik met Rick Pastoor over waarom hij het boek Grip is gaan schrijven en wat er allemaal bij komt kijken. Ook leren we Rick een beetje beter kennen en dat is natuurlijk erg fijn want je gaat nog veel meer van Rick horen dit seizoen. Vind je het een fijne podcast en zou je me willen steunen in het maken ervan? <a href="https://patreon.com/reinier" rel="nofollow">Op Patreon vind je hoe je dat kunt doen</a>.</p>
+
+<h2>Handige linkjes naar dingen die in de aflevering naar voren komen</h2>
+
+<ul>
+<li><a href="https://gripboek.nl" rel="nofollow">Bestel het boek waar seizoen 1 over gaat: Grip van Rick pastoor</a></li>
+<li><a href="https://rickpastoor.com" rel="nofollow">Meer over Rick Pastoor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Getting_Things_Done" rel="nofollow">Getting Things Done</a> van David Allen</li>
+<li><a href="https://www.getrevue.co/profile/werkslim" rel="nofollow">De nieuwsbrief van Rick</a></li>
+<li><a href="https://willibrordsabdij.nl" rel="nofollow">St. Willibrords Abdij in Doetinchem</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+UlF7WlfI</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+UlF7WlfI" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E02. Grip op je agenda</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e02</link>
+	  <guid isPermaLink="false">cc4e35ac-fbff-4fd6-9f2b-e67315a31723</guid>
+	  <pubDate>Mon, 21 Jan 2019 07:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/cc4e35ac-fbff-4fd6-9f2b-e67315a31723.mp3" length="11793136" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mijn idee bij een agenda was altijd dat je daar je afspraken in zet maar Rick neemt dat nogal breed op. Hij zet zijn bezigheden in zijn agenda en ziet dat als afspraken met zichzelf. Een erg fijne manier om je toekomstige zelf een beetje wegwijs te maken in de dag die komen gaat.</itunes:subtitle>
+	  <itunes:duration>13:45</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mijn idee bij een agenda was altijd dat je daar je afspraken in zet maar Rick neemt dat nogal breed op. Hij zet zijn bezigheden in zijn agenda en ziet dat als afspraken met zichzelf. Een erg fijne manier om je toekomstige zelf een beetje wegwijs te maken in de dag die komen gaat.
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier)
+Links naar dingen uit deze aflevering
+Parkinson's law (https://en.wikipedia.org/wiki/Parkinson's_law)
+The Eisenhower Matrix (https://www.eisenhower.me/eisenhower-matrix/)
+What it Means to Eat the Frog (https://blog.noisli.com/what-it-means-to-eat-the-frog/)
+Stel een vraag
+Stel een vraag aan Rick of aan Reinier (https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>calendar, agenda, grip, werk, work, productivity, productiviteit</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mijn idee bij een agenda was altijd dat je daar je afspraken in zet maar Rick neemt dat nogal breed op. Hij zet zijn bezigheden in zijn agenda en ziet dat als afspraken met zichzelf. Een erg fijne manier om je toekomstige zelf een beetje wegwijs te maken in de dag die komen gaat.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Parkinson&#x27;s_law" rel="nofollow">Parkinson&#39;s law</a></li>
+<li><a href="https://www.eisenhower.me/eisenhower-matrix/" rel="nofollow">The Eisenhower Matrix</a></li>
+<li><a href="https://blog.noisli.com/what-it-means-to-eat-the-frog/" rel="nofollow">What it Means to Eat the Frog</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>In deze aflevering gaan we wat dieper in op Rick zijn gebruik van een agenda. Mijn idee bij een agenda was altijd dat je daar je afspraken in zet maar Rick neemt dat nogal breed op. Hij zet zijn bezigheden in zijn agenda en ziet dat als afspraken met zichzelf. Een erg fijne manier om je toekomstige zelf een beetje wegwijs te maken in de dag die komen gaat.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Parkinson&#x27;s_law" rel="nofollow">Parkinson&#39;s law</a></li>
+<li><a href="https://www.eisenhower.me/eisenhower-matrix/" rel="nofollow">The Eisenhower Matrix</a></li>
+<li><a href="https://blog.noisli.com/what-it-means-to-eat-the-frog/" rel="nofollow">What it Means to Eat the Frog</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+_LA6VQOb</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+_LA6VQOb" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E03. Grip op je takenlijst</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e03</link>
+	  <guid isPermaLink="false">2916b616-5635-4c33-a95d-7e6b06697fdd</guid>
+	  <pubDate>Mon, 28 Jan 2019 03:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/2916b616-5635-4c33-a95d-7e6b06697fdd.mp3" length="13377738" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In deze aflevering gaan we dieper in op het hoofdstuk ‘Bewaar Nooit Meer Iets In Je Hoofd’ uit [Grip] wat gaat over het gebruik van een takenlijst. Het boek Getting Things Done van David Allen gaat hier grotendeels over maar toch heeft Rick een verfrissende kijk op dit onderwerp. In deze aflevering komt onder andere aan bod waarom je taken in kleine stukjes moet opdelen en waarom je plannen en uitvoeren strikt gescheiden moet houden.</itunes:subtitle>
+	  <itunes:duration>15:31</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>In deze aflevering gaan we dieper in op het hoofdstuk ‘Bewaar Nooit Meer Iets In Je Hoofd’ uit Grip (https://gripboek.nl) wat gaat over het gebruik van een takenlijst. Het boek Getting Things Done van David Allen gaat hier grotendeels over maar toch heeft Rick een verfrissende kijk op dit onderwerp. In deze aflevering komt onder andere aan bod waarom je taken in kleine stukjes moet opdelen en waarom je plannen en uitvoeren strikt gescheiden moet houden.
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier)
+Links naar dingen uit deze aflevering
+GTD Best Practices: Collect (Part 1 of 5) (https://gettingthingsdone.com/2011/10/gtd-best-practices-collect-part-1-of-5/) (o.a. over open loops)
+Things voor Mac en iOS (https://culturedcode.com/things/)
+Todoist is een prima alternatief voor Things (https://todoist.com)
+Je agenda blijft nog steeds heel belangrijk (https://hoekrijgjehetvoorelkaar.nl/shownotes/2019/01/20/s01e02-grip-op-je-agenda.html)
+How to break down large projects &amp; tasks into bite-sized tasks (https://blog.amazingmarvin.com/break-large-projects-tasks-bite-sized-tasks/)
+Stel een vraag
+Stel een vraag aan Rick of aan Reinier (https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>todos, tasks, list, grip, werk, work, productivity, productiviteit</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>In deze aflevering gaan we dieper in op het hoofdstuk ‘Bewaar Nooit Meer Iets In Je Hoofd’ uit <a href="https://gripboek.nl" rel="nofollow">Grip</a> wat gaat over het gebruik van een takenlijst. Het boek Getting Things Done van David Allen gaat hier grotendeels over maar toch heeft Rick een verfrissende kijk op dit onderwerp. In deze aflevering komt onder andere aan bod waarom je taken in kleine stukjes moet opdelen en waarom je plannen en uitvoeren strikt gescheiden moet houden.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://gettingthingsdone.com/2011/10/gtd-best-practices-collect-part-1-of-5/" rel="nofollow">GTD Best Practices: Collect (Part 1 of 5)</a> (o.a. over open loops)</li>
+<li><a href="https://culturedcode.com/things/" rel="nofollow">Things voor Mac en iOS</a></li>
+<li><a href="https://todoist.com" rel="nofollow">Todoist is een prima alternatief voor Things</a></li>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/shownotes/2019/01/20/s01e02-grip-op-je-agenda.html" rel="nofollow">Je agenda blijft nog steeds heel belangrijk</a></li>
+<li><a href="https://blog.amazingmarvin.com/break-large-projects-tasks-bite-sized-tasks/" rel="nofollow">How to break down large projects &amp; tasks into bite-sized tasks</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>In deze aflevering gaan we dieper in op het hoofdstuk ‘Bewaar Nooit Meer Iets In Je Hoofd’ uit <a href="https://gripboek.nl" rel="nofollow">Grip</a> wat gaat over het gebruik van een takenlijst. Het boek Getting Things Done van David Allen gaat hier grotendeels over maar toch heeft Rick een verfrissende kijk op dit onderwerp. In deze aflevering komt onder andere aan bod waarom je taken in kleine stukjes moet opdelen en waarom je plannen en uitvoeren strikt gescheiden moet houden.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://gettingthingsdone.com/2011/10/gtd-best-practices-collect-part-1-of-5/" rel="nofollow">GTD Best Practices: Collect (Part 1 of 5)</a> (o.a. over open loops)</li>
+<li><a href="https://culturedcode.com/things/" rel="nofollow">Things voor Mac en iOS</a></li>
+<li><a href="https://todoist.com" rel="nofollow">Todoist is een prima alternatief voor Things</a></li>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/shownotes/2019/01/20/s01e02-grip-op-je-agenda.html" rel="nofollow">Je agenda blijft nog steeds heel belangrijk</a></li>
+<li><a href="https://blog.amazingmarvin.com/break-large-projects-tasks-bite-sized-tasks/" rel="nofollow">How to break down large projects &amp; tasks into bite-sized tasks</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+kQaEQXWf</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+kQaEQXWf" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E04. Grip op je e-mail</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e04</link>
+	  <guid isPermaLink="false">37b6a49b-6389-45c1-a914-29c2267dd213</guid>
+	  <pubDate>Mon, 04 Feb 2019 04:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/37b6a49b-6389-45c1-a914-29c2267dd213.mp3" length="11797638" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In deze aflevering gaan we het beest dat e-mail heet temmen. E-mail is namelijk allang niet meer dat onschuldige medium uit de jaren ’90 waarmee je lekker kon pennen met iemand uit Vietnam of Alaska. Nee, e-mail is een ware plaag en sommige mensen worden helemaal beheerst door hun e-mail.</itunes:subtitle>
+	  <itunes:duration>15:43</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>In deze aflevering gaan we het beest dat e-mail heet temmen. E-mail is namelijk allang niet meer dat onschuldige medium uit de jaren ’90 waarmee je lekker kon pennen met iemand uit Vietnam of Alaska. Nee, e-mail is een ware plaag en sommige mensen worden helemaal beheerst door hun e-mail.
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier)
+Links naar dingen uit deze aflevering
+The Antidote: Happiness for People Who Can't Stand Positive Thinking by Oliver Burkeman (https://www.goodreads.com/book/show/13721709-the-antidote)
+E-mailbeleid.nl (https://e-mailbeleid.nl/)
+De meeste e-mails op werk worden binnen 6 seconden geopend (https://www.businessinsider.nl/work-login-emails-affects-productivity-2017-3/)
+Boomerang for Gmail (https://www.boomeranggmail.com/)
+xkcd: Is It Worth the Time? (https://xkcd.com/1205/)
+12 “Manager READMEs” from Silicon Valley’s Top Tech Companies (https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+Six Years With a Distraction-Free iPhone (https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
+Stel een vraag
+Stel een vraag aan Rick of aan Reinier (https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>grip, werk, work, productivity, productiviteit, email, e-mail, communication, manager readme</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>In deze aflevering gaan we het beest dat e-mail heet temmen. E-mail is namelijk allang niet meer dat onschuldige medium uit de jaren ’90 waarmee je lekker kon pennen met iemand uit Vietnam of Alaska. Nee, e-mail is een ware plaag en sommige mensen worden helemaal beheerst door hun e-mail.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://www.goodreads.com/book/show/13721709-the-antidote" rel="nofollow">The Antidote: Happiness for People Who Can&#39;t Stand Positive Thinking by Oliver Burkeman</a></li>
+<li><a href="https://e-mailbeleid.nl/" rel="nofollow">E-mailbeleid.nl</a></li>
+<li><a href="https://www.businessinsider.nl/work-login-emails-affects-productivity-2017-3/" rel="nofollow">De meeste e-mails op werk worden binnen 6 seconden geopend</a></li>
+<li><a href="https://www.boomeranggmail.com/" rel="nofollow">Boomerang for Gmail</a></li>
+<li><a href="https://xkcd.com/1205/" rel="nofollow">xkcd: Is It Worth the Time?</a></li>
+<li><a href="https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe" rel="nofollow">12 “Manager READMEs” from Silicon Valley’s Top Tech Companies</a></li>
+<li><a href="https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3" rel="nofollow">Six Years With a Distraction-Free iPhone</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>In deze aflevering gaan we het beest dat e-mail heet temmen. E-mail is namelijk allang niet meer dat onschuldige medium uit de jaren ’90 waarmee je lekker kon pennen met iemand uit Vietnam of Alaska. Nee, e-mail is een ware plaag en sommige mensen worden helemaal beheerst door hun e-mail.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://www.goodreads.com/book/show/13721709-the-antidote" rel="nofollow">The Antidote: Happiness for People Who Can&#39;t Stand Positive Thinking by Oliver Burkeman</a></li>
+<li><a href="https://e-mailbeleid.nl/" rel="nofollow">E-mailbeleid.nl</a></li>
+<li><a href="https://www.businessinsider.nl/work-login-emails-affects-productivity-2017-3/" rel="nofollow">De meeste e-mails op werk worden binnen 6 seconden geopend</a></li>
+<li><a href="https://www.boomeranggmail.com/" rel="nofollow">Boomerang for Gmail</a></li>
+<li><a href="https://xkcd.com/1205/" rel="nofollow">xkcd: Is It Worth the Time?</a></li>
+<li><a href="https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe" rel="nofollow">12 “Manager READMEs” from Silicon Valley’s Top Tech Companies</a></li>
+<li><a href="https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3" rel="nofollow">Six Years With a Distraction-Free iPhone</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+mSyEEa0R</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+mSyEEa0R" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E05. Grip op je week</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e05</link>
+	  <guid isPermaLink="false">6a1f3b7b-0aba-46e7-895f-8393ad3ce7ec</guid>
+	  <pubDate>Mon, 11 Feb 2019 04:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/6a1f3b7b-0aba-46e7-895f-8393ad3ce7ec.mp3" length="11427987" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In deze aflevering gaan we het hebben over de motor van je systeem: de wekelijkse review. Ken je dat gevoel zo vlak voor een vakantie dat je alles hebt afgerond en dat je met een gerust hart op vakantie kunt? Met een wekelijkse review kun je dit gevoel elke week bereiken!</itunes:subtitle>
+	  <itunes:duration>15:12</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>We hebben het in de vorige afleveringen gehad over het werken met je agenda en je takenlijst. Maar er is nog iets nodig dat dit alles verbind en up-to-date houdt.
+In deze aflevering gaan we het hebben over de motor van dit systeem: de wekelijkse review. Ken je dat gevoel zo vlak voor een vakantie dat je alles hebt afgerond en dat je met een gerust hart op vakantie kunt? Met een wekelijkse review kun je dit gevoel elke week bereiken!
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier)
+Links naar dingen uit deze aflevering
+Weekly Review by Rick Pastoor (https://rickpastoor.com/sections/weeklyreview.html)
+The Weekly Review: How One Hour Can Save You A Week’s Worth of Hassle and Headache (https://lifehacker.com/the-weekly-review-how-one-hour-can-save-you-a-week-s-w-5908816)
+How to Write a Personal Mission Statement by Answering 5 Questions (https://www.andyandrews.com/personal-mission-statement/)
+Find Yourself an Accountability Partner by Rick Pastoor (https://rickpastoor.com/2014/05/28/find-yourself-an-accountability-partner.html)
+Stel een vraag
+Stel een vraag aan Rick of aan Reinier (https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/)
+En verder…
+De productiviteitscameo is deze aflevering met Pieter-Pleun Korevaar (https://twitter.com/ppkorevaar) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>grip, werk, work, productivity, productiviteit, weekly review, wekelijks onderhoud, gtd</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>We hebben het in de vorige afleveringen gehad over het werken met je agenda en je takenlijst. Maar er is nog iets nodig dat dit alles verbind en up-to-date houdt.</p>
+
+<p>In deze aflevering gaan we het hebben over de motor van dit systeem: de wekelijkse review. Ken je dat gevoel zo vlak voor een vakantie dat je alles hebt afgerond en dat je met een gerust hart op vakantie kunt? Met een wekelijkse review kun je dit gevoel elke week bereiken!</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://rickpastoor.com/sections/weeklyreview.html" rel="nofollow">Weekly Review by Rick Pastoor</a></li>
+<li><a href="https://lifehacker.com/the-weekly-review-how-one-hour-can-save-you-a-week-s-w-5908816" rel="nofollow">The Weekly Review: How One Hour Can Save You A Week’s Worth of Hassle and Headache</a></li>
+<li><a href="https://www.andyandrews.com/personal-mission-statement/" rel="nofollow">How to Write a Personal Mission Statement by Answering 5 Questions</a></li>
+<li><a href="https://rickpastoor.com/2014/05/28/find-yourself-an-accountability-partner.html" rel="nofollow">Find Yourself an Accountability Partner by Rick Pastoor</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul>
+
+<h2>En verder…</h2>
+
+<p>De productiviteitscameo is deze aflevering met <a href="https://twitter.com/ppkorevaar" rel="nofollow">Pieter-Pleun Korevaar</a></p><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>We hebben het in de vorige afleveringen gehad over het werken met je agenda en je takenlijst. Maar er is nog iets nodig dat dit alles verbind en up-to-date houdt.</p>
+
+<p>In deze aflevering gaan we het hebben over de motor van dit systeem: de wekelijkse review. Ken je dat gevoel zo vlak voor een vakantie dat je alles hebt afgerond en dat je met een gerust hart op vakantie kunt? Met een wekelijkse review kun je dit gevoel elke week bereiken!</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://rickpastoor.com/sections/weeklyreview.html" rel="nofollow">Weekly Review by Rick Pastoor</a></li>
+<li><a href="https://lifehacker.com/the-weekly-review-how-one-hour-can-save-you-a-week-s-w-5908816" rel="nofollow">The Weekly Review: How One Hour Can Save You A Week’s Worth of Hassle and Headache</a></li>
+<li><a href="https://www.andyandrews.com/personal-mission-statement/" rel="nofollow">How to Write a Personal Mission Statement by Answering 5 Questions</a></li>
+<li><a href="https://rickpastoor.com/2014/05/28/find-yourself-an-accountability-partner.html" rel="nofollow">Find Yourself an Accountability Partner by Rick Pastoor</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul>
+
+<h2>En verder…</h2>
+
+<p>De productiviteitscameo is deze aflevering met <a href="https://twitter.com/ppkorevaar" rel="nofollow">Pieter-Pleun Korevaar</a></p><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+eclpT-jw</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+eclpT-jw" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E06. Grip op je jaar</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e06</link>
+	  <guid isPermaLink="false">60be6bed-36d2-48b1-bb21-9f2515aa508b</guid>
+	  <pubDate>Mon, 18 Feb 2019 04:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/60be6bed-36d2-48b1-bb21-9f2515aa508b.mp3" length="11442127" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>Hoe bewaak je de grote lijnen in je werk? Hoe kom je tot inzichten die impact hebben over maanden en jaren heen? Daar is een jaarplan voor. En een jaarplan hoef je natuurlijk niet eind december te maken. Dit kun je in principe het hele jaar door doen maar een mooi moment is het einde van een kwartaal zodat je jaar mooi in ingedeeld in begrijpelijke blokken.</itunes:subtitle>
+	  <itunes:duration>15:14</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>Hoe bewaak je de grote lijnen in je werk? Hoe kom je tot inzichten die impact hebben over maanden en jaren heen? Daar is een jaarplan voor. En een jaarplan hoef je natuurlijk niet eind december te maken. Dit kun je in principe het hele jaar door doen maar een mooi moment is het einde van een kwartaal zodat je jaar mooi in ingedeeld in begrijpelijke blokken.
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier)
+Links naar dingen uit deze aflevering
+MindNode (https://mindnode.com/)
+SMART criteria (https://en.wikipedia.org/wiki/SMART_criteria)
+Yearly Review by Rick Pastoor (https://rickpastoor.com/sections/yearlyreview.html)
+Stel een vraag
+Stel een vraag aan Rick of aan Reinier (https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/)
+En verder…
+De productiviteitscameo is deze aflevering met Niels de Hoog (https://twitter.com/nielsify) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>grip, werk, work, productivity, productiviteit, yearly review, jaarlijks onderhoud, gtd</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>Hoe bewaak je de grote lijnen in je werk? Hoe kom je tot inzichten die impact hebben over maanden en jaren heen? Daar is een jaarplan voor. En een jaarplan hoef je natuurlijk niet eind december te maken. Dit kun je in principe het hele jaar door doen maar een mooi moment is het einde van een kwartaal zodat je jaar mooi in ingedeeld in begrijpelijke blokken.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://mindnode.com/" rel="nofollow">MindNode</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SMART_criteria" rel="nofollow">SMART criteria</a></li>
+<li><a href="https://rickpastoor.com/sections/yearlyreview.html" rel="nofollow">Yearly Review by Rick Pastoor</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul>
+
+<h2>En verder…</h2>
+
+<p>De productiviteitscameo is deze aflevering met <a href="https://twitter.com/nielsify" rel="nofollow">Niels de Hoog</a></p><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>Hoe bewaak je de grote lijnen in je werk? Hoe kom je tot inzichten die impact hebben over maanden en jaren heen? Daar is een jaarplan voor. En een jaarplan hoef je natuurlijk niet eind december te maken. Dit kun je in principe het hele jaar door doen maar een mooi moment is het einde van een kwartaal zodat je jaar mooi in ingedeeld in begrijpelijke blokken.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul>
+
+<h2>Links naar dingen uit deze aflevering</h2>
+
+<ul>
+<li><a href="https://mindnode.com/" rel="nofollow">MindNode</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SMART_criteria" rel="nofollow">SMART criteria</a></li>
+<li><a href="https://rickpastoor.com/sections/yearlyreview.html" rel="nofollow">Yearly Review by Rick Pastoor</a></li>
+</ul>
+
+<h2>Stel een vraag</h2>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl/stel-een-vraag/" rel="nofollow">Stel een vraag aan Rick of aan Reinier</a></li>
+</ul>
+
+<h2>En verder…</h2>
+
+<p>De productiviteitscameo is deze aflevering met <a href="https://twitter.com/nielsify" rel="nofollow">Niels de Hoog</a></p><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+3BVcU4T9</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+3BVcU4T9" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E07. De accountability partner</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e07</link>
+	  <guid isPermaLink="false">7ff84ad6-1284-4128-ace0-e0259f86203d</guid>
+	  <pubDate>Mon, 04 Mar 2019 04:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/7ff84ad6-1284-4128-ace0-e0259f86203d.mp3" length="11539138" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In deze aflevering hebben we het over de accountability partner; een partner waarmee je elke week je voortgang op verschillende doelen bespreekt en waar je obstakels mee doorneemt om deze te overkomen. Hier hebben we het al even kort over gehad in aflevering 5 maar we gaan er in deze aflevering langer over door.</itunes:subtitle>
+	  <itunes:duration>15:22</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>In deze aflevering hebben we het over de accountability partner; een partner waarmee je elke week je voortgang op verschillende doelen bespreekt en waar je obstakels mee doorneemt om deze te overkomen. Hier hebben we het al even kort over gehad in aflevering 5 maar we gaan er in deze aflevering langer over door.
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>grip, werk, work, productivity, productiviteit, accountability partner, coaching, gtd</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>In deze aflevering hebben we het over de accountability partner; een partner waarmee je elke week je voortgang op verschillende doelen bespreekt en waar je obstakels mee doorneemt om deze te overkomen. Hier hebben we het al even kort over gehad in aflevering 5 maar we gaan er in deze aflevering langer over door.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>In deze aflevering hebben we het over de accountability partner; een partner waarmee je elke week je voortgang op verschillende doelen bespreekt en waar je obstakels mee doorneemt om deze te overkomen. Hier hebben we het al even kort over gehad in aflevering 5 maar we gaan er in deze aflevering langer over door.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+JGYNFHko</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+JGYNFHko" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E08. Slimmer luisteren</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e08</link>
+	  <guid isPermaLink="false">32acc17a-7195-47ce-9838-fde7492d541e</guid>
+	  <pubDate>Mon, 11 Mar 2019 04:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/32acc17a-7195-47ce-9838-fde7492d541e.mp3" length="11977320" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>Luisteren lijkt niet zo moeilijk, maar om iemand goed te begrijpen of verder te komen in je eigen denken is het nodig om dit goed aan te pakken. Rick heeft hier een prima methode voor die we in deze aflevering met elkaar bespreken.</itunes:subtitle>
+	  <itunes:duration>15:58</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>Luisteren lijkt niet zo moeilijk, maar om iemand goed te begrijpen of verder te komen in je eigen denken is het nodig om dit goed aan te pakken. Rick heeft hier een prima methode voor die we in deze aflevering met elkaar bespreken.
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>grip, werk, work, productivity, productiviteit, luisteren, interviewen, gtd</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>Luisteren lijkt niet zo moeilijk, maar om iemand goed te begrijpen of verder te komen in je eigen denken is het nodig om dit goed aan te pakken. Rick heeft hier een prima methode voor die we in deze aflevering met elkaar bespreken.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>Luisteren lijkt niet zo moeilijk, maar om iemand goed te begrijpen of verder te komen in je eigen denken is het nodig om dit goed aan te pakken. Rick heeft hier een prima methode voor die we in deze aflevering met elkaar bespreken.</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+hPSYNaqY</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+hPSYNaqY" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>S01E09. Jezelf verbeteren</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/s01e09</link>
+	  <guid isPermaLink="false">8f9f12ff-b838-4e6c-94d8-17cca016d102</guid>
+	  <pubDate>Mon, 18 Mar 2019 04:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/8f9f12ff-b838-4e6c-94d8-17cca016d102.mp3" length="11955025" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>In deze laatste aflevering van het seizoen hebben Rick en ik het over jezelf verbeteren. Het boek biedt daar een prima systeem voor maar toch heeft Rick een heel eigen hoofdstuk in zijn boek gewijd aan dit onderwerp. </itunes:subtitle>
+	  <itunes:duration>15:56</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>In deze laatste aflevering van het seizoen hebben Rick en ik het over jezelf verbeteren. Het boek biedt daar een prima systeem voor maar toch heeft Rick een heel eigen hoofdstuk in zijn boek gewijd aan dit onderwerp. 
+Omdat dit de laatste aflevering is wil ik nog wat extra bedankjes uitdelen:
+Rick Pastoor, hartstikke bedankt voor je bijdrage aan dit eerste seizoen. Je hebt niet alleen een fijn boek geschreven, je hebt er ook voor gezorgd dat deze podcast vol tips en inzichten kwam te staan.
+De luisteraars, hartstikke bedankt voor het luisteren. Jullie waren per afleveringen met vele duizenden en ik hoop dat jullie nu slimmer, efficiënter en met meer plezier aan het werk zijn.
+Tot een volgend seizoen!
+Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.
+Hoe Krijg Je Het Voor Elkaar website (https://hoekrijgjehetvoorelkaar.nl)
+Hoe Krijg Je Het Voor Elkaar Patreon (http://patreon.com/reinier) Special Guest: Rick Pastoor.
+</description>
+	  <itunes:keywords>grip, werk, work, productivity, productiviteit, gtd, jezelf verbeteren</itunes:keywords>
+	  <content:encoded>
+		<![CDATA[<p>In deze laatste aflevering van het seizoen hebben Rick en ik het over jezelf verbeteren. Het boek biedt daar een prima systeem voor maar toch heeft Rick een heel eigen hoofdstuk in zijn boek gewijd aan dit onderwerp. </p>
+
+<p>Omdat dit de laatste aflevering is wil ik nog wat extra bedankjes uitdelen:</p>
+
+<ul>
+<li>Rick Pastoor, hartstikke bedankt voor je bijdrage aan dit eerste seizoen. Je hebt niet alleen een fijn boek geschreven, je hebt er ook voor gezorgd dat deze podcast vol tips en inzichten kwam te staan.</li>
+<li>De luisteraars, hartstikke bedankt voor het luisteren. Jullie waren per afleveringen met vele duizenden en ik hoop dat jullie nu slimmer, efficiënter en met meer plezier aan het werk zijn.</li>
+</ul>
+
+<p>Tot een volgend seizoen!</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>In deze laatste aflevering van het seizoen hebben Rick en ik het over jezelf verbeteren. Het boek biedt daar een prima systeem voor maar toch heeft Rick een heel eigen hoofdstuk in zijn boek gewijd aan dit onderwerp. </p>
+
+<p>Omdat dit de laatste aflevering is wil ik nog wat extra bedankjes uitdelen:</p>
+
+<ul>
+<li>Rick Pastoor, hartstikke bedankt voor je bijdrage aan dit eerste seizoen. Je hebt niet alleen een fijn boek geschreven, je hebt er ook voor gezorgd dat deze podcast vol tips en inzichten kwam te staan.</li>
+<li>De luisteraars, hartstikke bedankt voor het luisteren. Jullie waren per afleveringen met vele duizenden en ik hoop dat jullie nu slimmer, efficiënter en met meer plezier aan het werk zijn.</li>
+</ul>
+
+<p>Tot een volgend seizoen!</p>
+
+<p>Je kunt de Hoe Krijg Je Het Voor Elkaar podcast een handje helpen door Patreon te worden of je vrienden en familie te tippen over de podcast.</p>
+
+<ul>
+<li><a href="https://hoekrijgjehetvoorelkaar.nl" rel="nofollow">Hoe Krijg Je Het Voor Elkaar website</a></li>
+<li><a href="http://patreon.com/reinier" rel="nofollow">Hoe Krijg Je Het Voor Elkaar Patreon</a></li>
+</ul><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+PUPDvJMY</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+PUPDvJMY" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+	<item>
+	  <title>Bonus: Snuggere Zaken aflevering 1</title>
+	  <link>https://hoekrijgjehetvoorelkaar.nl/bonus-1</link>
+	  <guid isPermaLink="false">1733a728-3ba0-4d99-919f-da4cd1d9b1fa</guid>
+	  <pubDate>Fri, 01 Nov 2019 08:00:00 +0100</pubDate>
+	  <author>Reinier Ladan</author>
+	  <enclosure url="https://f002.backblazeb2.com/file/hoe-krijg-je-het-voor-elkaar/1733a728-3ba0-4d99-919f-da4cd1d9b1fa.mp3" length="14719873" type="audio/mpeg"/>
+	  <itunes:episodeType>full</itunes:episodeType>
+	  <itunes:season>1</itunes:season>
+	  <itunes:author>Reinier Ladan</itunes:author>
+	  <itunes:subtitle>Geen normale aflevering van Hoe Krijg Je Het Voor Elkaar maar een bonus-aflevering van de eerste aflevering van de podcast die Rick Pastoor en ik (Reinier Ladan) zijn gestart omdat we nog niet uitgepraat waren na seizoen 1 van Hoe Krijg Je Het Voor Elkaar. Voor meer informatie over deze podcast kun je naar [snuggerezaken.nl](https://snuggerezaken.nl)</itunes:subtitle>
+	  <itunes:duration>19:47</itunes:duration>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://podcasts.reinierladan.nl/hoe-krijg-je-het-voor-elkaar/cover.jpg"/>
+	  <description>Geen normale aflevering van Hoe Krijg Je Het Voor Elkaar maar een bonus-aflevering van de eerste aflevering van de podcast die Rick Pastoor en ik (Reinier Ladan) zijn gestart omdat we nog niet uitgepraat waren na seizoen 1 van Hoe Krijg Je Het Voor Elkaar. Voor meer informatie over deze podcast kun je naar snuggerezaken.nl (https://snuggerezaken.nl) Special Guest: Rick Pastoor.
+</description>
+	  <content:encoded>
+		<![CDATA[<p>Geen normale aflevering van Hoe Krijg Je Het Voor Elkaar maar een bonus-aflevering van de eerste aflevering van de podcast die Rick Pastoor en ik (Reinier Ladan) zijn gestart omdat we nog niet uitgepraat waren na seizoen 1 van Hoe Krijg Je Het Voor Elkaar. Voor meer informatie over deze podcast kun je naar <a href="https://snuggerezaken.nl" rel="nofollow">snuggerezaken.nl</a></p><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </content:encoded>
+	  <itunes:summary>
+		<![CDATA[<p>Geen normale aflevering van Hoe Krijg Je Het Voor Elkaar maar een bonus-aflevering van de eerste aflevering van de podcast die Rick Pastoor en ik (Reinier Ladan) zijn gestart omdat we nog niet uitgepraat waren na seizoen 1 van Hoe Krijg Je Het Voor Elkaar. Voor meer informatie over deze podcast kun je naar <a href="https://snuggerezaken.nl" rel="nofollow">snuggerezaken.nl</a></p><p>Special Guest: Rick Pastoor.</p><p><a href="https://www.patreon.com/reinier" rel="payment">Support Hoe Krijg Je Het Voor Elkaar?</a></p>]]>
+	  </itunes:summary>
+	  <fireside:playerURL>https://fireside.fm/player/v2/R68v5wVn+AFmBrn5U</fireside:playerURL>
+	  <fireside:playerEmbedCode>
+		<![CDATA[<iframe src="https://fireside.fm/player/v2/R68v5wVn+AFmBrn5U" width="740" height="200" frameborder="0" scrolling="no">]]>
+	  </fireside:playerEmbedCode>
+	</item>
+  </channel>
+</rss>
