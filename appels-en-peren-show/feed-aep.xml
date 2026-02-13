@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
-	<fireside:hostname>feed01.fireside.fm</fireside:hostname>
-	<fireside:genDate>Fri, 06 Nov 2020 21:14:23 -0600</fireside:genDate>
 	<generator>Fireside (https://fireside.fm)</generator>
 	<title>De Appels en Peren Show</title>
 	<link>https://appelsenperenshow.nl</link>
@@ -35,7 +33,7 @@
 	  <guid isPermaLink="false">e5461842-9898-4649-9b40-cd23f9059c7c</guid>
 	  <pubDate>Wed, 16 Sep 2020 21:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/e5461842-9898-4649-9b40-cd23f9059c7c-mno.mp3" length="63828112" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/e5461842-9898-4649-9b40-cd23f9059c7c-mno.mp3" length="63828112" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Dit is voorlopig even de laatste Appels en Peren Show. Misschien komen we nog terug, misschien niet. We zien wel.</itunes:subtitle>
@@ -128,7 +126,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">40ddb863-7ec8-4b5a-83cf-ac2645ffcc75</guid>
 	  <pubDate>Tue, 23 Jun 2020 13:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/40ddb863-7ec8-4b5a-83cf-ac2645ffcc75-mno.mp3" length="50150612" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/40ddb863-7ec8-4b5a-83cf-ac2645ffcc75-mno.mp3" length="50150612" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We bespreken de toekomst van Apple én een toekomst waarin er geen nieuwe computers meer gemaakt worden. Pak je komkommer, zit lekker in je socket en luister naar wat mensen op internet die mensen op internet napraten.</itunes:subtitle>
@@ -179,7 +177,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">bcc84b9b-f5a1-4714-832b-1d21dd8abea1</guid>
 	  <pubDate>Tue, 05 May 2020 16:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/bcc84b9b-f5a1-4714-832b-1d21dd8abea1-mno.mp3" length="51692738" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/bcc84b9b-f5a1-4714-832b-1d21dd8abea1-mno.mp3" length="51692738" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We gaan de matryoshka in om uit te komen bij een eGPU waar MacOS direct op geprojecteerd wordt. Ook nog een re-enactment van een middeleeuws kerkkoor en de toekomst van de iPad.</itunes:subtitle>
@@ -245,7 +243,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">abde334f-e713-45d0-a04a-8c15d436a1a3</guid>
 	  <pubDate>Thu, 16 Apr 2020 19:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/abde334f-e713-45d0-a04a-8c15d436a1a3-mno.mp3" length="53092564" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/abde334f-e713-45d0-a04a-8c15d436a1a3-mno.mp3" length="53092564" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We proberen een Coronavrije-zone te creëren maar dat valt nog niet mee. De aflevering gaat echt van start met het zorgen maken om je cold-storage strategie en we sluiten af met de vraag wat nou eigenlijk waarde heeft. Verder liep deze aflevering nogal in de papieren en komen we op voor robotrechten.</itunes:subtitle>
@@ -336,7 +334,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">a060f87e-4a4d-4601-98b2-d0e4d7206dd8</guid>
 	  <pubDate>Wed, 01 Apr 2020 14:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/a060f87e-4a4d-4601-98b2-d0e4d7206dd8-mno.mp3" length="59640116" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/a060f87e-4a4d-4601-98b2-d0e4d7206dd8-mno.mp3" length="59640116" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Ook tijdens de wereldwijde corona-adventure kunnen we onze gedachten richten op het aantal hertz van je monitor, muissupport op de iPad en digital-to-analog convertertjes.</itunes:subtitle>
@@ -428,7 +426,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">e737053d-5df1-4bea-b81b-56af7fc5c95c</guid>
 	  <pubDate>Wed, 26 Feb 2020 13:30:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/e737053d-5df1-4bea-b81b-56af7fc5c95c-mno.mp3" length="59939855" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/e737053d-5df1-4bea-b81b-56af7fc5c95c-mno.mp3" length="59939855" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Reinier heeft een nieuwe muis, Wietse droomt lekker door en neural upscaling van oude beelden waardoor je in een tijdmachine terecht komt. Dit alles in een gloednieuwe Appels en Peren Show.</itunes:subtitle>
@@ -512,7 +510,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">05e07c83-703c-41c5-9b12-f2c8301a5e8d</guid>
 	  <pubDate>Thu, 23 Jan 2020 21:00:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/05e07c83-703c-41c5-9b12-f2c8301a5e8d-mno.mp3" length="63764952" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/05e07c83-703c-41c5-9b12-f2c8301a5e8d-mno.mp3" length="63764952" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een update over waarom de Oculus Quest ligt te verstoffen, krijg je koude opslag in orde en wat moet Musk nou met een grid van satellieten om de aarde?</itunes:subtitle>
@@ -581,7 +579,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">cebe3134-2e1b-4bc2-9f0e-d4c445b7ebcd</guid>
 	  <pubDate>Fri, 20 Dec 2019 08:30:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/cebe3134-2e1b-4bc2-9f0e-d4c445b7ebcd-mno.mp3" length="65486168" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/cebe3134-2e1b-4bc2-9f0e-d4c445b7ebcd-mno.mp3" length="65486168" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben Alexander Klopping te gast in deze kerstspecial over Chriet Titulaer en alles gerelateerd aan deze vent. Technologische voortuitgang, het Huis van de Toekomst en het in je vliegtuig pleuren van een Apollocapsule.</itunes:subtitle>
@@ -608,7 +606,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">e382e82b-ea7b-4d02-bf30-a92866b0246f</guid>
 	  <pubDate>Fri, 22 Nov 2019 08:15:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/e382e82b-ea7b-4d02-bf30-a92866b0246f-mno.mp3" length="72159031" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/e382e82b-ea7b-4d02-bf30-a92866b0246f-mno.mp3" length="72159031" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We beginnen met een spoilervrij gesprekje over The Mandalorian maar aan het eind zit een spoilergevuld gesprekje erover. Tussen deze Mandaloriansandwich hebben we het over het inzetten van een stuk voorspellingssoftware als compressiemiddel en een oplossing voor internet in een dictatuur. </itunes:subtitle>
@@ -700,7 +698,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">3f65c45e-77f4-46e9-b440-37b6ff93d487</guid>
 	  <pubDate>Tue, 05 Nov 2019 20:00:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/3f65c45e-77f4-46e9-b440-37b6ff93d487-mno.mp3" length="53671072" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/3f65c45e-77f4-46e9-b440-37b6ff93d487-mno.mp3" length="53671072" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een kleine deepdive in het maken van een processor en is onze realiteit eigenlijk wel deterministisch? Oh ja, we werden ook héél enthousiast over een nep Game Boy. Maar wat voor een!</itunes:subtitle>
@@ -781,7 +779,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">9e9e9250-cf4b-4fb9-896a-df1ee1129144</guid>
 	  <pubDate>Wed, 16 Oct 2019 20:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9e9e9250-cf4b-4fb9-896a-df1ee1129144-mno.mp3" length="59240129" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9e9e9250-cf4b-4fb9-896a-df1ee1129144-mno.mp3" length="59240129" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een aflevering waarin Wietse en Reinier ieder iets proberen uit te leggen waar vast een nog handige explainer over te vinden is op Youtube. Maar dat mag de pret niet drukken want er staat gewoon weer een nieuwe Appels en Peren Show op je te wachten!</itunes:subtitle>
@@ -865,7 +863,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">94aa0b37-2f3a-4a93-88b2-e87c2f4104f3</guid>
 	  <pubDate>Wed, 04 Sep 2019 12:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/94aa0b37-2f3a-4a93-88b2-e87c2f4104f3-mno.mp3" length="51884594" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/94aa0b37-2f3a-4a93-88b2-e87c2f4104f3-mno.mp3" length="51884594" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Als je je telefoon op zwart-wit zet dan krijgt het leven ineens een stuk meer kleur! We duiken ook nog in wat opvallende fonts, we bespreken alvast aflevering 250 van de show en net als je denkt dat we gaan afronden komt er nog een enorme trip down memory lane.</itunes:subtitle>
@@ -944,7 +942,7 @@ Version Museum: A Visual History of Your Favorite Technology (https://www.versio
 	  <guid isPermaLink="false">938f25c5-f5d4-4814-b28d-dae315e6e2b5</guid>
 	  <pubDate>Wed, 17 Jul 2019 20:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/938f25c5-f5d4-4814-b28d-dae315e6e2b5-mno.mp3" length="53873512" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/938f25c5-f5d4-4814-b28d-dae315e6e2b5-mno.mp3" length="53873512" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Vergeet niet: only the paranoid survive! Dus via een privé-verbinding en met énorm weinig latency komen we deze aflevering bij je binnen terwijl we je UFW-strategie in de cloud bespreken en je in je VR-bril een desktop zakmes uit je pi-hole haalt. </itunes:subtitle>
@@ -1025,7 +1023,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">65b3df0d-4c83-45ad-9e10-8aa61d8674ae</guid>
 	  <pubDate>Wed, 19 Jun 2019 19:45:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/65b3df0d-4c83-45ad-9e10-8aa61d8674ae-mno.mp3" length="46737975" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/65b3df0d-4c83-45ad-9e10-8aa61d8674ae-mno.mp3" length="46737975" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Van fake news naar fake news en via fake news de krochten van Youtube in. Zo'n aflevering! </itunes:subtitle>
@@ -1097,7 +1095,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">c9ddfe00-237d-41c9-bdb9-679a71bcb300</guid>
 	  <pubDate>Fri, 17 May 2019 14:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c9ddfe00-237d-41c9-bdb9-679a71bcb300-mno.mp3" length="57944811" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c9ddfe00-237d-41c9-bdb9-679a71bcb300-mno.mp3" length="57944811" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Na wat gepraat over of je het nieuws nou wel of niet moet volgen duiken we de AI diepte in om vervolgens te eindigen met de vraag wat een Europeaan nou eigenlijk is.</itunes:subtitle>
@@ -1176,7 +1174,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">7b2d1ba4-c674-48f7-9bae-ae36a8df6a5e</guid>
 	  <pubDate>Wed, 27 Mar 2019 09:00:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7b2d1ba4-c674-48f7-9bae-ae36a8df6a5e-mno.mp3" length="54081616" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7b2d1ba4-c674-48f7-9bae-ae36a8df6a5e-mno.mp3" length="54081616" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>en heel scala aan onderwerpen komt weer langs waarbij de rode draad toch wel is of je een Thin of een Fat client wilt zijn. Kiezen maar!</itunes:subtitle>
@@ -1257,7 +1255,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">aa034a05-2465-4e2c-a347-39c58be3d6f0</guid>
 	  <pubDate>Tue, 12 Feb 2019 11:00:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/aa034a05-2465-4e2c-a347-39c58be3d6f0-mno.mp3" length="45045763" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/aa034a05-2465-4e2c-a347-39c58be3d6f0-mno.mp3" length="45045763" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>De opname is, geheel in stijl overigens met de inhoud van de aflevering, een beetje amateuristisch. We waren genoodzaakt de telefoonopname van Wietse te gebruiken. Maar evengoed een interessante show over amateur radio, verborgen berichten, Duck Duck Go en indie games.</itunes:subtitle>
@@ -1333,7 +1331,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Nozzman (http://www.nozz
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/164-memorable-chaos-computer-sim-city-25366bd4d30da83c84cbc21bb855e414</guid>
 	  <pubDate>Mon, 14 Jan 2019 21:00:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b305170a-8029-4dc8-99ac-0aab99037154-mno.mp3" length="48794012" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b305170a-8029-4dc8-99ac-0aab99037154-mno.mp3" length="48794012" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse ging naar de 35C3 en Reinier is een nieuwe podcast begonnen. Kip met broek. Mand!
@@ -1400,7 +1398,7 @@ De scriptie van Wietse<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/163-kneiterkort-grip-rewatch-value-85-kweenie-man-9bb1f14bc701593f3f489ef9cc10f3e6</guid>
 	  <pubDate>Mon, 03 Dec 2018 21:08:37 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/34903a97-7554-4736-8559-b12ddd0dc5df-mno.mp3" length="49472177" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/34903a97-7554-4736-8559-b12ddd0dc5df-mno.mp3" length="49472177" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We proberen een technoligie uit de vorige eeuw om onze podcast op te nemen en dat gaat best aardig. We vergeten weer eens wat namen van belangrijke mensen maar dat mag de pret verder niet drukken, als je maar je karbonaatje kan blijven eten, ja toch?
@@ -1474,7 +1472,7 @@ Fermiparadox<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/162-a12x-zeker-compuserve-intranet-wafers-mosh-a815918b4e885acce45f6a2cc26d3ef4</guid>
 	  <pubDate>Tue, 13 Nov 2018 21:03:18 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/4aca1450-2dac-402e-9ca2-f09f0b9811a8-mno.mp3" length="66588592" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/4aca1450-2dac-402e-9ca2-f09f0b9811a8-mno.mp3" length="66588592" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We proberen de belofte van de quantum entangled podcasting microfoon en merken dat dat eigenlijk prima werkt. Daarnaast hebben we het ook over de nieuwe iPad, de eternal september door de normies en het Anki Vector robot huisdier.
@@ -1543,7 +1541,7 @@ De toekomst van de iPad<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/161-kapitalitische-cyber-quatro-formagie-setjes-57e7cac1e7e47836a7abbf45c79b1fc8</guid>
 	  <pubDate>Wed, 24 Oct 2018 09:13:41 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7440c6de-e35e-4eca-b050-1888afd8b8cc-mno.mp3" length="56164477" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7440c6de-e35e-4eca-b050-1888afd8b8cc-mno.mp3" length="56164477" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Geheime chips die worden geplaatst door Super Micro in de Surveillance Capitalism maatschappij waarbij single purpose devices ons leven beheersen via quantum entangled microfoons.
@@ -1595,7 +1593,7 @@ Onderwerpen
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/160-steek-het-in-de-deep-learning-typemachine-all-you-can-eat-af4a83568f4ae28abd1e66a2dc5aae0d</guid>
 	  <pubDate>Wed, 03 Oct 2018 21:34:51 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/2eab52c0-60b3-4419-8ede-a4efe72da2f2-mno.mp3" length="46502289" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/2eab52c0-60b3-4419-8ede-a4efe72da2f2-mno.mp3" length="46502289" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Het verschil tussen geloven en beseffen en het infuus van soylent dat in he wordt geprikt als je over night van LA naar SF rijdt. Crypto ook nog en het Youtube algoritme. En meer, het houdt niet op.
@@ -1662,7 +1660,7 @@ Crypto’s<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/159-vlassig-venga-boys-witruimte-op-7-millimeter-nokia-399884e1c3d22e3abe288452ce998f6c</guid>
 	  <pubDate>Wed, 19 Sep 2018 21:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b9f2b7aa-2197-4014-95b0-ec30a03c9af7-mno.mp3" length="51687936" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b9f2b7aa-2197-4014-95b0-ec30a03c9af7-mno.mp3" length="51687936" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>De Apple Keynote en ontsnappen aan de aandachtseconomie.
@@ -1718,7 +1716,7 @@ Aandachtinflatie<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/158-dinosaurus-henk-op-de-maan-brute-forcen-d69e90d1cab5903f12206dd840e62cb9</guid>
 	  <pubDate>Wed, 18 Jul 2018 21:34:20 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0140062c-e2f9-4f6c-baf1-362ba947d4f1-mno.mp3" length="54751109" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0140062c-e2f9-4f6c-baf1-362ba947d4f1-mno.mp3" length="54751109" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een vrij melige zomeraflevering waarin we een aantal zaken bespreken die we toch echt voor de zomer besproken dienen te hebben. Zoals een Dinosaurus op de maan, het weigeren van een Martin Simek persiflage en tips om de zomer uberhaupt door te komen.
@@ -1798,7 +1796,7 @@ Onderwerpen
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/157-joe-de-rooskys-kneiter-triggers-artefacten-fefec2b0a26730112b6fb9cdcb385759</guid>
 	  <pubDate>Mon, 18 Jun 2018 21:44:10 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0c09a74e-d4db-467d-9b2a-2b11c34cb268-mno.mp3" length="55518359" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0c09a74e-d4db-467d-9b2a-2b11c34cb268-mno.mp3" length="55518359" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderbewustzijn en de exocortex. En we wachten op Tim Cook terwijl we de podcast opnemen.
@@ -1858,7 +1856,7 @@ Onderwerpen
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/156-kanye-koekoek-hero-butterfly-4-uur-op-dinsdag-8a7e6fa5760677729cd50cdf8fbbdc91</guid>
 	  <pubDate>Thu, 07 Jun 2018 21:31:02 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/547cd447-21dc-4534-aafe-e6e1c208b017-mno.mp3" length="59527393" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/547cd447-21dc-4534-aafe-e6e1c208b017-mno.mp3" length="59527393" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -1942,7 +1940,7 @@ Magic Leap<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/155-het-jaar-van-de-standalone-mr-dreamcast-forecasten-24b00f90dd1700f333f1ee8f1a4eedd1</guid>
 	  <pubDate>Tue, 15 May 2018 21:41:32 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/691eeb3e-19c5-4974-82d4-e2f8610b8ddb-mno.mp3" length="58055430" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/691eeb3e-19c5-4974-82d4-e2f8610b8ddb-mno.mp3" length="58055430" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Lekker stukkie ouwehoeren over VR, eSports en wat al die virtuele dingen betekenen in een fysieke wereld.
@@ -2009,7 +2007,7 @@ eSports<br>
 	  <guid isPermaLink="false">appelsenperenshow.podbean.com/154-airgap-mri-loaded-term-saldi-gekoekt-24b00f90dd1700f333f1ee8f1a4eedd1</guid>
 	  <pubDate>Thu, 26 Apr 2018 21:19:13 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/6f958a31-64c7-47a7-9ad2-60b5595f1fab-mno.mp3" length="42111452" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/6f958a31-64c7-47a7-9ad2-60b5595f1fab-mno.mp3" length="42111452" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>154. Airgap MRI loaded term saldi gekoekt
@@ -2071,7 +2069,7 @@ Onderwerpen
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/428293542</guid>
 	  <pubDate>Wed, 11 Apr 2018 20:20:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/1be71bee-5a40-497c-8bba-dd15b540f4f5-mno.mp3" length="61052564" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/1be71bee-5a40-497c-8bba-dd15b540f4f5-mno.mp3" length="61052564" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Over Facebook, Apple Pay, Productiviteit en een DIY Powerwall. Shownotes hier: http://appelsenperenshow.nl/aflevering/2018/4/11/153-oermannen-praten-door-een-mondharmonica-1628 Of hier: ⁃ [Lubach over Facebook](https://www.youtube.com/watch?v=ysa-SzNepsA...</itunes:subtitle>
@@ -2097,7 +2095,7 @@ Onderwerpen
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/412687914</guid>
 	  <pubDate>Mon, 12 Mar 2018 20:26:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b6d79c89-9c76-4d70-b883-2638979ee2a0-mno.mp3" length="66290965" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b6d79c89-9c76-4d70-b883-2638979ee2a0-mno.mp3" length="66290965" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Link naar shownotes op onze website: http://appelsenperenshow.nl/aflevering/2018/3/12/151-toegepaste-serverless-indie-node-eindgebruiker Crypto’s zijn hot, crypto’s zijn de shit, crypto’s zijn lauw man. Maar crypto’s zijn ook superinteressant en daarom h...</itunes:subtitle>
@@ -2123,7 +2121,7 @@ Onderwerpen
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/406133067</guid>
 	  <pubDate>Tue, 27 Feb 2018 20:35:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/67819509-ea8b-455f-a7e2-5e5d73d56369-mno.mp3" length="60148960" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/67819509-ea8b-455f-a7e2-5e5d73d56369-mno.mp3" length="60148960" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>De rise en downfall van de Appels en Peren Show T-Shirts, Radio Kootwijk, Starlink en Altered Carbon en dan vergeet ik natuurlijk gewoon nog 15 onderwerpen. Aflevering 150 is weer eens uniek in zijn eigen soort. Hier de shownotes: http://appelsenperensho...</itunes:subtitle>
@@ -2149,7 +2147,7 @@ Onderwerpen
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/398606070</guid>
 	  <pubDate>Mon, 12 Feb 2018 20:32:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0cfc9624-1c1d-471d-9dd3-05faf72ddce4-mno.mp3" length="61933153" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0cfc9624-1c1d-471d-9dd3-05faf72ddce4-mno.mp3" length="61933153" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>149. Gate Array Heppie Peppie Verslag Blocks voor Bitcoin Klappen
@@ -2249,7 +2247,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Soundcloud (http://sound
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/387544574</guid>
 	  <pubDate>Mon, 22 Jan 2018 20:19:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/e2493eac-962a-4a9b-89ae-049a55da9e8a-mno.mp3" length="48065659" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/e2493eac-962a-4a9b-89ae-049a55da9e8a-mno.mp3" length="48065659" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Hier vind je de shownotes: http://appelsenperenshow.nl/aflevering/2018/1/22/148-biosysteem-stuiver-encode-order-of-magnitude-hoedje
@@ -2338,7 +2336,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Soundcloud (http://sound
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/380683895</guid>
 	  <pubDate>Mon, 08 Jan 2018 20:25:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/20121e41-1ef6-4665-afc9-7d3b74427e0d-mno.mp3" length="52843207" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/20121e41-1ef6-4665-afc9-7d3b74427e0d-mno.mp3" length="52843207" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Lekker vers 2018 beginnen op me monnie en bellen met Apple. Stukje utopische dystopie gaat ook niet aan ons cynisme voorbij.
@@ -2412,7 +2410,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Soundcloud (http://sound
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/369124196</guid>
 	  <pubDate>Wed, 13 Dec 2017 20:45:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b54f1c7a-e750-4e93-9602-a298806d3491-mno.mp3" length="57878603" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b54f1c7a-e750-4e93-9602-a298806d3491-mno.mp3" length="57878603" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Vreet YouTube de wereld op en kun je genieten van een robotrace? Allemaal vragen waar misschien wel geen antwoord op te vinden is maar we proberen het wel.
@@ -2478,7 +2476,7 @@ Grote dank aan de vrienden van de Appels en Peren Show: Soundcloud (http://sound
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/356297390</guid>
 	  <pubDate>Wed, 15 Nov 2017 20:32:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7e50f941-f078-4ec0-847b-4050a5439b8b-mno.mp3" length="72796586" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7e50f941-f078-4ec0-847b-4050a5439b8b-mno.mp3" length="72796586" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Geen drie, geen vier, geen vijf onderwerpen maar honderdertigduizend!
@@ -2567,7 +2565,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/349820281</guid>
 	  <pubDate>Wed, 01 Nov 2017 20:24:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c3e8ff36-9d2d-494b-a36c-b7c84f83de79-mno.mp3" length="58765862" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c3e8ff36-9d2d-494b-a36c-b7c84f83de79-mno.mp3" length="58765862" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Het is de week van de iPhone X release, Reinier is weer terug uit Japan, we hebben een Patreon en we praten over Star Trek Discovery.
@@ -2643,7 +2641,7 @@ Wil je ook de Appels en Peren Show sponsoren? Ga dan naar patreon.com/appelsenpe
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/345194733</guid>
 	  <pubDate>Tue, 03 Oct 2017 19:55:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/61c34327-6850-44fb-bc95-ca28c25845f1-mno.mp3" length="72162282" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/61c34327-6850-44fb-bc95-ca28c25845f1-mno.mp3" length="72162282" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>143. Bonami Live Burton Urban Total Commander
@@ -2738,7 +2736,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/340035579</guid>
 	  <pubDate>Tue, 29 Aug 2017 20:38:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9b519b37-8e24-455e-82a8-498e72096953-mno.mp3" length="58748113" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9b519b37-8e24-455e-82a8-498e72096953-mno.mp3" length="58748113" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Er werd een Soundboard gebruikt. Er werd over zelfrijzende auto's gepraat. iMessage kwam voorbij. Een hoop lolligheid en machine learning.
@@ -2818,7 +2816,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/338089161</guid>
 	  <pubDate>Wed, 16 Aug 2017 07:27:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c97c0b5e-b3be-4fe4-a985-ebe504c0fbdf-mno.mp3" length="69138576" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c97c0b5e-b3be-4fe4-a985-ebe504c0fbdf-mno.mp3" length="69138576" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Weer honderden kilometers uit elkaar doet de technologie zijn werk en is er weer een nieuwe Appels en Peren Show. Aan het begin zit alle info voor als je bij de live show van de Appels en Peren Show wilt zijn op 1 oktober in Zwolle. De show notes vind je...</itunes:subtitle>
@@ -2854,7 +2852,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/333912473</guid>
 	  <pubDate>Wed, 19 Jul 2017 20:26:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5b11d980-8225-462d-b180-e1de026be6da-mno.mp3" length="44811480" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5b11d980-8225-462d-b180-e1de026be6da-mno.mp3" length="44811480" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse in Slovenië, Reinier in z'n kantoor, het kan allemaal in 2017 maar we hebben het natuurlijk over 2018 en verder! En let op de aankondiging van ons nieuwe live event en zet alvast een streep door die dag in je kalender.
@@ -2925,7 +2923,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/329374300</guid>
 	  <pubDate>Wed, 21 Jun 2017 20:26:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b22699d7-34e5-4376-bedf-9356a480e0d8-mno.mp3" length="51666847" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b22699d7-34e5-4376-bedf-9356a480e0d8-mno.mp3" length="51666847" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Nog wat nabranders van de WWDC, waar heb je eigenlijk Ivo Niehe voor nodig en hoe computers toch blijven veranderen.
@@ -3005,7 +3003,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/326746578</guid>
 	  <pubDate>Tue, 06 Jun 2017 20:49:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/17eccce8-6675-4d39-b8aa-2c9379c5d848-mno.mp3" length="64538339" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/17eccce8-6675-4d39-b8aa-2c9379c5d848-mno.mp3" length="64538339" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Er is maar één onderwerp waar we het serieus over kunnen hebben vandaag en dat is de navelpluis van Tim Cook. 
@@ -3044,7 +3042,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/319780788</guid>
 	  <pubDate>Thu, 27 Apr 2017 20:31:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/295e1698-30b0-4d27-b972-3dd4f23c239c-mno.mp3" length="53790124" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/295e1698-30b0-4d27-b972-3dd4f23c239c-mno.mp3" length="53790124" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We staan even stil bij Chriet, we hebben het over kluizenaars in Japan en er gebeuren gave dingen in VR en Minecraft.
@@ -3137,7 +3135,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/316110633</guid>
 	  <pubDate>Tue, 04 Apr 2017 20:50:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/1268efec-a9ef-4cd7-ae18-b0ed016f4186-mno.mp3" length="49203544" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/1268efec-a9ef-4cd7-ae18-b0ed016f4186-mno.mp3" length="49203544" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Van de nieuwe iPad naar de toekomstige iPad en weer naar de iPhone om vervolgens via de Mac Pro en de nieuwe Samsung over te schakelen raketten en chippies in je brein.
@@ -3221,7 +3219,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/312425943</guid>
 	  <pubDate>Tue, 14 Mar 2017 21:33:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/436780aa-bff7-40a9-8750-2d749bb578ad-mno.mp3" length="75344674" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/436780aa-bff7-40a9-8750-2d749bb578ad-mno.mp3" length="75344674" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Van Blendle tot Lil' Kleine, van VR tot Index Cards, het was weer een typische Appels en Peren met verschillende snelheden en onderwerpen. Komt dat hoort, komt dat hoort!
@@ -3323,7 +3321,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/310078345</guid>
 	  <pubDate>Wed, 01 Mar 2017 07:08:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/6ff37cc4-4483-48a5-9ce3-ad6f75dd5723-mno.mp3" length="92318512" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/6ff37cc4-4483-48a5-9ce3-ad6f75dd5723-mno.mp3" length="92318512" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Van The Expanse naar ZeroNet en weer terug naar The Expanse. Daartussenin nog wat gepraat over goedkope laptops en de toekomst van USB-C in de iPhone.
@@ -3408,7 +3406,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/306601845</guid>
 	  <pubDate>Tue, 07 Feb 2017 21:09:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/deb55a47-504d-4ca4-a957-ea4135ca38e8-mno.mp3" length="77028711" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/deb55a47-504d-4ca4-a957-ea4135ca38e8-mno.mp3" length="77028711" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle># 133. Energy Green Oranje Plassable Poffertjespan
@@ -3502,7 +3500,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/303194759</guid>
 	  <pubDate>Tue, 17 Jan 2017 20:42:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7f1352e0-278d-4694-8025-03071d811528-mno.mp3" length="94646848" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7f1352e0-278d-4694-8025-03071d811528-mno.mp3" length="94646848" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een fijn gesprek over AirPods, Solar Flares, Raketlandingen en weer Solar Flares.
@@ -3594,7 +3592,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/297921839</guid>
 	  <pubDate>Wed, 14 Dec 2016 20:38:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/16436e88-4352-443e-b598-496f11b89728-mno.mp3" length="98790928" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/16436e88-4352-443e-b598-496f11b89728-mno.mp3" length="98790928" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een stukje software hier, een beetje Musk daar. Lekker babbelen over de zelfrijdende auto van Apple en de geschiedenis van Windows ARM. Alles met een aluhoedje op uiteraard. Deze aflevering is gepland te verouderen in 18 maanden.
@@ -3686,7 +3684,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/291206188</guid>
 	  <pubDate>Wed, 02 Nov 2016 20:28:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c9f3a908-8904-48af-bbe3-9885c864e098-mno.mp3" length="68656833" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c9f3a908-8904-48af-bbe3-9885c864e098-mno.mp3" length="68656833" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Excuses voor de wat mindere audiokwaliteit deze en vorige keer. Volgende keer wordt het weer veel beter!
@@ -3771,7 +3769,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/289040329</guid>
 	  <pubDate>Wed, 19 Oct 2016 21:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/8ca9c6b5-e012-4955-8fac-05a28ab60101-mno.mp3" length="80331376" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/8ca9c6b5-e012-4955-8fac-05a28ab60101-mno.mp3" length="80331376" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -3868,7 +3866,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/254868871</guid>
 	  <pubDate>Thu, 24 Mar 2016 20:22:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/d23bea78-f97f-45d8-907a-d426d7953981-mno.mp3" length="103828491" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/d23bea78-f97f-45d8-907a-d426d7953981-mno.mp3" length="103828491" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>- George Hotz
@@ -3950,7 +3948,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/246254293</guid>
 	  <pubDate>Tue, 09 Feb 2016 20:30:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9b2b00f3-8459-4ead-ad0d-bf0dd146fbe6-mno.mp3" length="56661393" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9b2b00f3-8459-4ead-ad0d-bf0dd146fbe6-mno.mp3" length="56661393" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4037,7 +4035,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/244393140</guid>
 	  <pubDate>Fri, 29 Jan 2016 12:39:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7abc2545-0587-4f4f-a0e2-12f930428458-mno.mp3" length="73910017" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7abc2545-0587-4f4f-a0e2-12f930428458-mno.mp3" length="73910017" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4129,7 +4127,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/236831838</guid>
 	  <pubDate>Wed, 09 Dec 2015 20:18:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/447f0f54-57e9-46e9-8b44-41f71d0ef431-mno.mp3" length="64344381" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/447f0f54-57e9-46e9-8b44-41f71d0ef431-mno.mp3" length="64344381" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4207,7 +4205,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/233666246</guid>
 	  <pubDate>Wed, 18 Nov 2015 20:20:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/00c71096-d464-40f6-b14f-eec4f7774b85-mno.mp3" length="57677693" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/00c71096-d464-40f6-b14f-eec4f7774b85-mno.mp3" length="57677693" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4282,7 +4280,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/231719293</guid>
 	  <pubDate>Thu, 05 Nov 2015 20:01:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/595737a2-811a-4680-af8a-2636503f3cb3-mno.mp3" length="58290799" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/595737a2-811a-4680-af8a-2636503f3cb3-mno.mp3" length="58290799" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4367,7 +4365,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/227376232</guid>
 	  <pubDate>Wed, 07 Oct 2015 20:39:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5dfe85a1-580c-4c86-bf95-75a56054a06a-mno.mp3" length="67339791" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5dfe85a1-580c-4c86-bf95-75a56054a06a-mno.mp3" length="67339791" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen:
@@ -4435,7 +4433,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/225250497</guid>
 	  <pubDate>Wed, 23 Sep 2015 20:02:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/f802fefe-21a1-4178-81af-47b6c9ff427a-mno.mp3" length="58345145" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/f802fefe-21a1-4178-81af-47b6c9ff427a-mno.mp3" length="58345145" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4501,7 +4499,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/223705232</guid>
 	  <pubDate>Sun, 13 Sep 2015 20:42:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/4768c1d4-7c7d-405a-a7ce-c9fb8d2c8f12-mno.mp3" length="65983148" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/4768c1d4-7c7d-405a-a7ce-c9fb8d2c8f12-mno.mp3" length="65983148" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4581,7 +4579,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/222059948</guid>
 	  <pubDate>Wed, 02 Sep 2015 20:14:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/a3fb3e1f-66f4-4b55-8caa-9232070923ca-mno.mp3" length="62339929" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/a3fb3e1f-66f4-4b55-8caa-9232070923ca-mno.mp3" length="62339929" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4658,7 +4656,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/218952989</guid>
 	  <pubDate>Wed, 12 Aug 2015 20:30:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/556d56e3-3e95-42ed-b01d-86ec53feac16-mno.mp3" length="54884269" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/556d56e3-3e95-42ed-b01d-86ec53feac16-mno.mp3" length="54884269" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -4738,7 +4736,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/216921849</guid>
 	  <pubDate>Wed, 29 Jul 2015 20:33:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/1d66dee9-7fc2-46f3-8b3f-cacb13489168-mno.mp3" length="71037537" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/1d66dee9-7fc2-46f3-8b3f-cacb13489168-mno.mp3" length="71037537" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>- [Voyager Gold Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
@@ -4831,7 +4829,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/211817225</guid>
 	  <pubDate>Wed, 24 Jun 2015 20:16:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/a42192d8-6e2b-437c-a221-8b274d6a7eab-mno.mp3" length="56333459" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/a42192d8-6e2b-437c-a221-8b274d6a7eab-mno.mp3" length="56333459" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen in Markdown:
@@ -4924,7 +4922,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/209738237</guid>
 	  <pubDate>Wed, 10 Jun 2015 20:31:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/2632e012-d07e-4aa6-ac40-592f93f4f71a-mno.mp3" length="68267048" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/2632e012-d07e-4aa6-ac40-592f93f4f71a-mno.mp3" length="68267048" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -4962,7 +4960,7 @@ Tom Waes beklimt El Capitan. Crazy.WWDC Keynote 2015How Tesla Will Change the Wo
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/206418098</guid>
 	  <pubDate>Wed, 20 May 2015 20:24:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/80058eb0-02a1-46b8-80b9-ab0e6f50f95f-mno.mp3" length="60329843" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/80058eb0-02a1-46b8-80b9-ab0e6f50f95f-mno.mp3" length="60329843" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -5061,7 +5059,7 @@ Dagelijkse updates via <a href="https://twitter.com/enbananen" rel="nofollow">ht
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/202190567</guid>
 	  <pubDate>Thu, 23 Apr 2015 15:59:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/17b32392-fc4c-4e8e-b6d0-5b205f82d269-mno.mp3" length="63217894" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/17b32392-fc4c-4e8e-b6d0-5b205f82d269-mno.mp3" length="63217894" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -5159,7 +5157,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/195487249</guid>
 	  <pubDate>Thu, 12 Mar 2015 10:12:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/adfa665e-f582-4f0b-ac0b-d4a83ce2f9de-mno.mp3" length="45957196" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/adfa665e-f582-4f0b-ac0b-d4a83ce2f9de-mno.mp3" length="45957196" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Ons makkelijk volgen: http://appelsenperenshow.nl/volg-ons/
@@ -5231,7 +5229,7 @@ Nieuwe MacBook<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/193127554</guid>
 	  <pubDate>Thu, 26 Feb 2015 08:30:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/01deb0cb-3738-45a5-9186-09b6eafb2ef1-mno.mp3" length="59226518" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/01deb0cb-3738-45a5-9186-09b6eafb2ef1-mno.mp3" length="59226518" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Live vanuit de toekomst is Wietse er op z'n Apple oordopjes. 
@@ -5338,7 +5336,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/190728543</guid>
 	  <pubDate>Thu, 12 Feb 2015 08:08:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/1d986676-83e1-49f1-a963-4f6026720648-mno.mp3" length="59584277" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/1d986676-83e1-49f1-a963-4f6026720648-mno.mp3" length="59584277" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -5424,7 +5422,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/188354399</guid>
 	  <pubDate>Wed, 28 Jan 2015 20:18:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/72b2696e-5737-4b53-8629-91261d02b267-mno.mp3" length="67731980" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/72b2696e-5737-4b53-8629-91261d02b267-mno.mp3" length="67731980" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -5508,7 +5506,7 @@ Dagelijkse updates via <a href="https://twitter.com/enbananen" rel="nofollow">ht
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/186059376</guid>
 	  <pubDate>Wed, 14 Jan 2015 20:23:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/58bd4441-e4fa-4915-8c01-be784b81b7a8-mno.mp3" length="52462901" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/58bd4441-e4fa-4915-8c01-be784b81b7a8-mno.mp3" length="52462901" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -5595,7 +5593,7 @@ Dagelijkse updates via <a href="https://twitter.com/enbananen" rel="nofollow">ht
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/184295117</guid>
 	  <pubDate>Sat, 03 Jan 2015 13:46:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/742b4aa4-89ae-4d67-b1ae-7b906e49ddc4-mno.mp3" length="62015035" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/742b4aa4-89ae-4d67-b1ae-7b906e49ddc4-mno.mp3" length="62015035" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Ons makkelijk volgen: http://appelsenperenshow.nl/volg-ons/
@@ -5688,7 +5686,7 @@ Dagelijkse updates via <a href="https://twitter.com/enbananen" rel="nofollow">ht
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/182829767</guid>
 	  <pubDate>Tue, 23 Dec 2014 15:42:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/a00e4bed-37a7-4ce1-8d12-96ae2e9563ff-mno.mp3" length="42737991" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/a00e4bed-37a7-4ce1-8d12-96ae2e9563ff-mno.mp3" length="42737991" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Ons makkelijk volgen: appelsenperenshow.nl/volg-ons/
@@ -5801,7 +5799,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/181151898</guid>
 	  <pubDate>Fri, 12 Dec 2014 08:26:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/8461c7b6-c975-4806-a0ac-84cadb646a44-mno.mp3" length="75640238" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/8461c7b6-c975-4806-a0ac-84cadb646a44-mno.mp3" length="75640238" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Ons makkelijk volgen: http://appelsenperenshow.nl/volg-ons/
@@ -5928,7 +5926,7 @@ Dankwoord</p>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/179007647</guid>
 	  <pubDate>Fri, 28 Nov 2014 09:34:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/bad8408d-9bce-4b3d-8b98-3fa9acb9da2b-mno.mp3" length="76958281" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/bad8408d-9bce-4b3d-8b98-3fa9acb9da2b-mno.mp3" length="76958281" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Aan het eind van de aflevering (na ongeveer een uur) bespreken we Interstellar MET SPOILERS. Mocht je de film dus niet gezien hebben, zet dan de podcast uit.
@@ -6018,7 +6016,7 @@ Dagelijkse updates via <a href="https://twitter.com/enbananen" rel="nofollow">ht
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/174605301</guid>
 	  <pubDate>Thu, 30 Oct 2014 20:24:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5a8924a2-e0f3-4cd0-b7cb-e07c23e9a4ca-mno.mp3" length="60390252" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5a8924a2-e0f3-4cd0-b7cb-e07c23e9a4ca-mno.mp3" length="60390252" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>## Onderwerpen
@@ -6116,7 +6114,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud (http://soundcloud.co
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/172469658</guid>
 	  <pubDate>Thu, 16 Oct 2014 21:13:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/dddba147-edd6-4a52-b290-617929109232-mno.mp3" length="44919601" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/dddba147-edd6-4a52-b290-617929109232-mno.mp3" length="44919601" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een wilde aflevering door alles wat er in de Apple Keynote is gebeurt. Van de iPad Air 2 tot de iMac Retina. En dat was het wel zo'n beetje.
@@ -6163,7 +6161,7 @@ Dankwoord
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/169201108</guid>
 	  <pubDate>Wed, 24 Sep 2014 20:05:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/99da0f0b-cf8c-48fa-8b7d-cc8b8e99ff17-mno.mp3" length="75175328" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/99da0f0b-cf8c-48fa-8b7d-cc8b8e99ff17-mno.mp3" length="75175328" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -6264,7 +6262,7 @@ Minecraft naar Microsoft<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/167403698</guid>
 	  <pubDate>Fri, 12 Sep 2014 15:10:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c160a624-876c-46eb-89e0-4d8732ea36a6-mno.mp3" length="64962608" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c160a624-876c-46eb-89e0-4d8732ea36a6-mno.mp3" length="64962608" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een aflevering vol met Appels n.a.v. de iPhone6/Watch Keynote van afgelopen dinsdag.
@@ -6347,7 +6345,7 @@ Apps op de Watch<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/165932141</guid>
 	  <pubDate>Tue, 02 Sep 2014 20:14:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/df875ef2-ae82-4b2f-b48c-c7e2707819d6-mno.mp3" length="52874183" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/df875ef2-ae82-4b2f-b48c-c7e2707819d6-mno.mp3" length="52874183" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen:
@@ -6415,7 +6413,7 @@ Het Apple Healthbandje<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/161142307</guid>
 	  <pubDate>Thu, 31 Jul 2014 20:10:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/14e2d9be-43ae-4029-84f8-20689fc98873-mno.mp3" length="59311967" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/14e2d9be-43ae-4029-84f8-20689fc98873-mno.mp3" length="59311967" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -6509,7 +6507,7 @@ Crypto<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/157105380</guid>
 	  <pubDate>Thu, 03 Jul 2014 09:07:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/26678e5b-0603-4421-b187-309d0c8c8485-mno.mp3" length="71870251" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/26678e5b-0603-4421-b187-309d0c8c8485-mno.mp3" length="71870251" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -6609,7 +6607,7 @@ Voetbal!<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/153753058</guid>
 	  <pubDate>Tue, 10 Jun 2014 20:19:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/f2e9f45b-c11a-4cda-9bd8-0b3355957401-mno.mp3" length="69169902" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/f2e9f45b-c11a-4cda-9bd8-0b3355957401-mno.mp3" length="69169902" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -6702,7 +6700,7 @@ Appels en Peren backlog: <a href="http://enbananen.nl/">En Bananen</a><br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/150620484</guid>
 	  <pubDate>Wed, 21 May 2014 20:10:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/e01d2177-0d3b-4d71-bf77-4384d429d121-mno.mp3" length="62547135" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/e01d2177-0d3b-4d71-bf77-4384d429d121-mno.mp3" length="62547135" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -6783,7 +6781,7 @@ En vele andere dingen…<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/147264175</guid>
 	  <pubDate>Wed, 30 Apr 2014 19:55:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/571f951e-314a-429e-980c-80ce5f8c643e-mno.mp3" length="55215736" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/571f951e-314a-429e-980c-80ce5f8c643e-mno.mp3" length="55215736" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -6865,7 +6863,7 @@ Het schema voor komende zomer<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/144077676</guid>
 	  <pubDate>Thu, 10 Apr 2014 19:51:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/84f30dc6-bb37-40b3-9f81-031b1df35c4d-mno.mp3" length="77644377" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/84f30dc6-bb37-40b3-9f81-031b1df35c4d-mno.mp3" length="77644377" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben onderwerpen en dit zijn ze. Het is echt heel leuk geworden. Echt waar. En lang. Het gaat ook nog over Nietzsche, het gevaar voor Albert en kleine pianoos. Maar niet meer over vakantiefilms want dat mag niet meer maar dit is van voor de vakantie...</itunes:subtitle>
@@ -6949,7 +6947,7 @@ We verloten 10 invites voor <a href="https://itunes.apple.com/nl/app/electron-ec
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/141483156</guid>
 	  <pubDate>Wed, 26 Mar 2014 08:14:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0787c6de-7662-47ca-9b5f-fed70f1cfa5b-mno.mp3" length="72988502" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0787c6de-7662-47ca-9b5f-fed70f1cfa5b-mno.mp3" length="72988502" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Deze aflevering bestaat voor 90% uit pre-oculusrift-overname materiaal. Daarom aan het eind extra gratis bonus content met een morning after gesprek tussen Wietse en Reinier over de overname van Oculus Rift door Facebook.
@@ -7056,7 +7054,7 @@ Met je bioscoop de trein in<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/139343478</guid>
 	  <pubDate>Thu, 13 Mar 2014 08:31:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b94a7f6c-e87e-44f6-8c91-305986c6b518-mno.mp3" length="73321143" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b94a7f6c-e87e-44f6-8c91-305986c6b518-mno.mp3" length="73321143" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We zijn weer terug van de winterslaap zonder winter. Winter is coming aan het eind van het jaar pas weer! De aflevering is extra goed gecomprimeerd voor de ultieme onderwaterbeleving.
@@ -7167,7 +7165,7 @@ Je werk automatiseren en wat krijg je ervoor terug<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/133160452</guid>
 	  <pubDate>Wed, 05 Feb 2014 08:46:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/824b5dd6-b7d5-4f24-8600-10e8085a95df-mno.mp3" length="72081115" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/824b5dd6-b7d5-4f24-8600-10e8085a95df-mno.mp3" length="72081115" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een aflevering van 1 uur en 40 minuten voor je donder! Maar dat mag ook wel, want we doen een kleine winterstop.
@@ -7267,7 +7265,7 @@ LG Smart TV<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/130012162</guid>
 	  <pubDate>Fri, 17 Jan 2014 18:51:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/be93d37a-4d08-4fcc-8abf-ed3f346bc66e-mno.mp3" length="56585287" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/be93d37a-4d08-4fcc-8abf-ed3f346bc66e-mno.mp3" length="56585287" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Aan het begin van de aflevering nog een bonus: Clublime legt uit hoe de intro jingle in elkaar zit. Wuup Wuup!
@@ -7371,7 +7369,7 @@ Qualcomm digital pen<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/127529209</guid>
 	  <pubDate>Thu, 02 Jan 2014 13:42:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/cd1feeef-da76-44c2-a7a5-29f797bcaa2e-mno.mp3" length="49003625" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/cd1feeef-da76-44c2-a7a5-29f797bcaa2e-mno.mp3" length="49003625" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen:
@@ -7459,7 +7457,7 @@ Sherlock<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/126312866</guid>
 	  <pubDate>Tue, 24 Dec 2013 12:27:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/d3e2f14d-578a-4167-9036-7fec20774cbb-mno.mp3" length="6609728" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/d3e2f14d-578a-4167-9036-7fec20774cbb-mno.mp3" length="6609728" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Aankondiging! Op vrijdag 10 januari 2014 om 18:00 openen de deuren bij Mangrove voor de eerste (pilot) van Live met Peren. 
@@ -7499,7 +7497,7 @@ http://www.eventbrite.nl/e/tickets-live-met-peren-9866043602
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/125152592</guid>
 	  <pubDate>Mon, 16 Dec 2013 20:35:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/d2f82a0e-7e67-40fc-9347-fdf1af48ad6e-mno.mp3" length="64838608" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/d2f82a0e-7e67-40fc-9347-fdf1af48ad6e-mno.mp3" length="64838608" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -7578,7 +7576,7 @@ App: <a href="https://beautifulpixels.com/iphone/fourth-dimension/">Fourth Dimen
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/123168555</guid>
 	  <pubDate>Wed, 04 Dec 2013 09:20:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/533439f2-8309-4463-a3da-83c9f430de57-mno.mp3" length="59471198" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/533439f2-8309-4463-a3da-83c9f430de57-mno.mp3" length="59471198" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse klinkt het eerste uur wat zwaarder omdat de technologie eens weer niet wilde meewerken… Het zal eens niet zo zijn!
@@ -7671,7 +7669,7 @@ Onderwerpen deze aflevering:
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/121010479</guid>
 	  <pubDate>Wed, 20 Nov 2013 08:22:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/ab8d3ba4-0f20-4ee9-88ac-2c273b46399d-mno.mp3" length="68003038" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/ab8d3ba4-0f20-4ee9-88ac-2c273b46399d-mno.mp3" length="68003038" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Veel Bitcoin zaken, maar vooral ook veel andere zaken. Een bomvolle aflevering waar ook de NSA en de AIVD graag naar luistert. 
@@ -7796,7 +7794,7 @@ Chrome Books<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/118971295</guid>
 	  <pubDate>Thu, 07 Nov 2013 10:45:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/28354ce4-848c-4856-be40-91b15426dfa5-mno.mp3" length="65833322" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/28354ce4-848c-4856-be40-91b15426dfa5-mno.mp3" length="65833322" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -7971,7 +7969,7 @@ Links
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/116661397</guid>
 	  <pubDate>Wed, 23 Oct 2013 10:03:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/80ba3e07-fdca-458b-bb26-f5daf57c0296-mno.mp3" length="55172675" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/80ba3e07-fdca-458b-bb26-f5daf57c0296-mno.mp3" length="55172675" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen:
@@ -8060,7 +8058,7 @@ Appletje-N en andere tips van Wietse<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/114520581</guid>
 	  <pubDate>Wed, 09 Oct 2013 10:35:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7090743a-4408-46ca-81c6-8a7a9956800a-mno.mp3" length="49244357" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7090743a-4408-46ca-81c6-8a7a9956800a-mno.mp3" length="49244357" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen deze aflevering:
@@ -8143,7 +8141,7 @@ Everpix<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/112563143</guid>
 	  <pubDate>Thu, 26 Sep 2013 10:52:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5d420281-238c-4b03-a615-c536dd310310-mno.mp3" length="54289040" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5d420281-238c-4b03-a615-c536dd310310-mno.mp3" length="54289040" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -8233,7 +8231,7 @@ Openbare communicatie binnen Apple<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/109857009</guid>
 	  <pubDate>Wed, 11 Sep 2013 10:43:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9fe97130-ec71-4548-b211-96eae74a4634-mno.mp3" length="48600896" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9fe97130-ec71-4548-b211-96eae74a4634-mno.mp3" length="48600896" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Deze zaken komen allemaal voorbij
@@ -8331,7 +8329,7 @@ Alle info over de Appels en Peren show vind je natuurlijk op http://appelsenpere
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/99764905</guid>
 	  <pubDate>Fri, 05 Jul 2013 09:37:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/e32e08cc-ee6d-4f21-9539-b3d3b463f326-mno.mp3" length="54803552" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/e32e08cc-ee6d-4f21-9539-b3d3b463f326-mno.mp3" length="54803552" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen van deze succesvol opgenomen aflevering:
@@ -8466,7 +8464,7 @@ TV: Heel Holland Bakt
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/96604443</guid>
 	  <pubDate>Wed, 12 Jun 2013 20:06:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/304762e9-6ba1-4ce2-aa14-c735d17ceab1-mno.mp3" length="6969683" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/304762e9-6ba1-4ce2-aa14-c735d17ceab1-mno.mp3" length="6969683" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Dit is niet de aflevering die we wilden maken. Die hebben we gemaakt, maar door technische problemen is die voor altijd verloren gegaan… Dus bij deze toch de samenvatting van de aflevering over WWDC 2013, dan hebben we tenminste nog iets. Excuses voor di...</itunes:subtitle>
@@ -8492,7 +8490,7 @@ TV: Heel Holland Bakt
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/93329004</guid>
 	  <pubDate>Wed, 22 May 2013 08:23:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/68801a44-38eb-4f3f-8762-ca8d2f4cea49-mno.mp3" length="47243394" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/68801a44-38eb-4f3f-8762-ca8d2f4cea49-mno.mp3" length="47243394" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen die we er als een malle doorheen jagen
@@ -8608,7 +8606,7 @@ WWDC<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/91378414</guid>
 	  <pubDate>Thu, 09 May 2013 08:01:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9646d7fd-0b06-4595-b350-75e9f662687f-mno.mp3" length="44471192" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9646d7fd-0b06-4595-b350-75e9f662687f-mno.mp3" length="44471192" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen
@@ -8750,7 +8748,7 @@ Spamhause<br>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/89333521</guid>
 	  <pubDate>Wed, 24 Apr 2013 20:05:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c0a1d268-28a1-4fc8-a0de-120514fb8e60-mno.mp3" length="50509832" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c0a1d268-28a1-4fc8-a0de-120514fb8e60-mno.mp3" length="50509832" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben het over:
@@ -8819,7 +8817,7 @@ Elon Musk en zijn Grasshopper raket, Kepler ontdekt nieuwe earth-like planets, W
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/86353667</guid>
 	  <pubDate>Thu, 04 Apr 2013 15:19:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/70814463-0769-403a-a947-b838ccc97bab-mno.mp3" length="40679312" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/70814463-0769-403a-a947-b838ccc97bab-mno.mp3" length="40679312" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>In deze aflevering bespreken we de reis van Wietse door Amerika. 
@@ -8853,7 +8851,7 @@ Grote dank aan de vrienden van Appels en Peren: Soundcloud voor de bandbreedte, 
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/79105966</guid>
 	  <pubDate>Wed, 13 Feb 2013 20:33:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/fbddaaef-2b8e-40da-a698-19ba55f3c142-mno.mp3" length="42827792" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/fbddaaef-2b8e-40da-a698-19ba55f3c142-mno.mp3" length="42827792" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Het is niet anders, maar we zijn er pas begin april weer. We gaan wel weer proberen om het dan elke week te organiseren. Stay tuned!
@@ -8919,7 +8917,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/77156906</guid>
 	  <pubDate>Wed, 30 Jan 2013 20:45:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c3279d5e-0c90-4148-8438-a441063b2d43-mno.mp3" length="48683552" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c3279d5e-0c90-4148-8438-a441063b2d43-mno.mp3" length="48683552" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen: Nieuwe Koning, BlackBerry, nieuwe Apple producten in 2013, zijn placebo’s wel placebo’s?, de A5 processor, waarom er een nieuwe Apple TV is, een retina iPad mini, de Apple smartwatch en Apple’s verborgen bluetooth 4 functies.
@@ -8979,7 +8977,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/75179930</guid>
 	  <pubDate>Wed, 16 Jan 2013 16:14:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9e8513f4-7325-4fc4-91aa-59ef698ecbdb-mno.mp3" length="48961112" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9e8513f4-7325-4fc4-91aa-59ef698ecbdb-mno.mp3" length="48961112" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Door een te snelle start heeft Reinier vergeten zijn goede microfoon te kiezen, vandaar dat hij klinkt alsof hij in een aquarium zit… Gelukkig is Wietse wel goed te horen!
@@ -9047,7 +9045,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/72704882</guid>
 	  <pubDate>Thu, 27 Dec 2012 09:09:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/6707e188-143d-463d-95be-9d24ef38a388-mno.mp3" length="46810071" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/6707e188-143d-463d-95be-9d24ef38a388-mno.mp3" length="46810071" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>2012. Het jaaroverzicht van Wietse en Reinier, vol Appels en Peren
@@ -9110,7 +9108,7 @@ Een enkele link uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/71865979</guid>
 	  <pubDate>Wed, 19 Dec 2012 20:29:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/f5b40245-d96d-416c-88fc-f6430d0cfc73-mno.mp3" length="41787032" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/f5b40245-d96d-416c-88fc-f6430d0cfc73-mno.mp3" length="41787032" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen: Er komt een speciale 2012 aflevering, Instagram, Google Maps, Android, Google apps niet op Windows 8 en WP Phone, Hype Machine, BUMA/Stemra vs. Nederland.fm, Android Ingress Game, Documentaire over rauw eten, Afrika en India online, Muse in ...</itunes:subtitle>
@@ -9184,7 +9182,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/70118328</guid>
 	  <pubDate>Wed, 05 Dec 2012 20:41:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0054ff5e-fcb2-47d6-9b36-10e8edde82f3-mno.mp3" length="40692632" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0054ff5e-fcb2-47d6-9b36-10e8edde82f3-mno.mp3" length="40692632" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen: Facebook/Whatsapp, iTunes 11, iTunes gift cards, 61 jaar oude computer, Hypercritical over RISC vs. CISC, popSLATE, PHP Frameworks en aanverwante zaken, plannen van James Bond schurken, Coursera, Alexander Klöpping en Universiteit van Nederl...</itunes:subtitle>
@@ -9263,7 +9261,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/68331371</guid>
 	  <pubDate>Wed, 21 Nov 2012 20:29:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/459eb603-f1a8-4258-88ff-5b6adb94cf4e-mno.mp3" length="36427712" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/459eb603-f1a8-4258-88ff-5b6adb94cf4e-mno.mp3" length="36427712" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen: Samsung Mini, Verdwijnende podcasts, Google als data provider, DNA van Peter R de Vries, Google Maps op iOS, Nokia Here, Wietse’s telefoon, Illegale spelletjes, Amazon Kindle, Siri en Maps op OS X, Siri in het Nederlands en de innovatieve ma...</itunes:subtitle>
@@ -9328,7 +9326,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/66728978</guid>
 	  <pubDate>Fri, 09 Nov 2012 10:14:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/71697a59-c817-4399-9f9a-0293fa5df473-mno.mp3" length="34060712" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/71697a59-c817-4399-9f9a-0293fa5df473-mno.mp3" length="34060712" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Onderwerpen: Nieuwe Macbook, Retina externe displays, De Hobbit, iPad mini, Apple details, iPod touch, Google Search App, Scott Forstall, Bob Mansfield, The Mothership in je huis, Philips Hue, Tweetbot for Mac, Kuvva for iPhone, De Snor.
@@ -9389,7 +9387,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/64655676</guid>
 	  <pubDate>Wed, 24 Oct 2012 20:36:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7e1608da-595e-47fa-b19a-9077dc818e3b-mno.mp3" length="45147992" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7e1608da-595e-47fa-b19a-9077dc818e3b-mno.mp3" length="45147992" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We zijn natuurlijk nog steeds erg enthousiast over het Apple Event van afgelopen dinsdag en we bespreken een nieuw kickstarterproject waarmee je voor serieuze knaken elke 30 seconde een fotootje kan maken. Daarnaast kan Reinier niet rekeken, waarvoor alv...</itunes:subtitle>
@@ -9444,7 +9442,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/63788132</guid>
 	  <pubDate>Wed, 17 Oct 2012 20:10:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/62863ddb-6060-4b25-a0df-80d999aa5c58-mno.mp3" length="43477952" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/62863ddb-6060-4b25-a0df-80d999aa5c58-mno.mp3" length="43477952" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Nieuwe iPads, Retro spelletjes zoals Worms en Sim City, Nieuwe MacBook Pro, Nieuwe iMacs(?), Foto’s maken met je iPad, Educatiekorting, Spotify, Oude Computers, Het MS Tablet dilemma, De infrastructuur van Apple en Microsoft, De telefoon en tablet als te...</itunes:subtitle>
@@ -9503,7 +9501,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/62945763</guid>
 	  <pubDate>Wed, 10 Oct 2012 20:19:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/aae1fedb-5576-41c1-a511-1df917a00ece-mno.mp3" length="40428032" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/aae1fedb-5576-41c1-a511-1df917a00ece-mno.mp3" length="40428032" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een tjokvolle aflevering waarin we niet op het woord ‘reputatie’ komen en met het Red Bull Skydive Stratos Spektakel, Space X, Elon Musk, Tandpasta, Facebook, Feature phones, SIM services, Zynga, Kakhiel, Strepsels, Lockitron, Bluetooth low power, Air Bn...</itunes:subtitle>
@@ -9586,7 +9584,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/61976399</guid>
 	  <pubDate>Tue, 02 Oct 2012 20:42:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/2dae52d8-95d8-41c7-a8c2-ed3e740634b3-mno.mp3" length="39602192" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/2dae52d8-95d8-41c7-a8c2-ed3e740634b3-mno.mp3" length="39602192" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We komen op gang met de verkoop van ultrabooks, een dagje iPhone 5 en Google. Vervolgens hebben we het over muziek, boer Aad, Hoefnagels, de ondergang van de PC, Mobile, Mobile, Mobile, powernaps en foto’s van servers.
@@ -9671,7 +9669,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/61271267</guid>
 	  <pubDate>Wed, 26 Sep 2012 20:25:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/26f6e64a-96aa-4041-a735-7d3a81754648-mno.mp3" length="42318032" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/26f6e64a-96aa-4041-a735-7d3a81754648-mno.mp3" length="42318032" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben het deze week over de iPhone 5, Krassen op de iPhone 5, Full/half duplex verbindingen, Apple’s A6 processor, De Barnes en Noble’s Nook, Skype problemen, Zelfsturende auto’s, Shared Hosting, De Carcloud en Elektrische auto’s. En natuurlijk over ...</itunes:subtitle>
@@ -9737,7 +9735,7 @@ Alle links en informatie over de podcast vind je op &lt;a href="http://appelsenp
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/60450402</guid>
 	  <pubDate>Wed, 19 Sep 2012 20:19:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/d856b174-0e59-4ce1-9cd9-7c6f16b30364-mno.mp3" length="40200512" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/d856b174-0e59-4ce1-9cd9-7c6f16b30364-mno.mp3" length="40200512" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben het over xkcd, xkcd en natuurlijk xkcd, wat een epic strip vandaag! Daarnaast ook nog over Project X Haren, de iOS6 update die Wietse niet wilt, De Efteling (en wie de Steve Jobs van De Efteling is), De iPhone5, De nieuwe iPod Touch, de Eilande...</itunes:subtitle>
@@ -9810,7 +9808,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/59511212</guid>
 	  <pubDate>Tue, 11 Sep 2012 20:23:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/3b62a83c-13fc-4237-a955-58cfa33d2345-mno.mp3" length="45571352" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/3b62a83c-13fc-4237-a955-58cfa33d2345-mno.mp3" length="45571352" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Roddel en achterklap over Gruber, Arment en Topolsky. Daarnaast natuurlijk een kleine vooruitblik op de lancering van de iPhone5 op 12 september, een terugblik op het Amazon event, de nieuwe Google YouTube app, de schaamteloze rip-off van de iMac door HP...</itunes:subtitle>
@@ -9880,7 +9878,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/58941661</guid>
 	  <pubDate>Thu, 06 Sep 2012 20:27:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b4262e9e-bbec-4edb-b64d-d8fbebba03e1-mno.mp3" length="39827912" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b4262e9e-bbec-4edb-b64d-d8fbebba03e1-mno.mp3" length="39827912" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Niet zoveel linkjes, maar wel veel gepraat over de Nokia Lumia 920, de iPhone5, de Amazon Kindle nieuwtjes (vers van de pers door Wietse, vandaar dat de verbinding af en toe een beetje stuiterig was), iOS 6 en Fluid Corners. Wietse zit overigens op een W...</itunes:subtitle>
@@ -9935,7 +9933,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/58141171</guid>
 	  <pubDate>Thu, 30 Aug 2012 20:54:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/79af497f-3571-44b5-a594-a86f8631470e-mno.mp3" length="49313552" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/79af497f-3571-44b5-a594-a86f8631470e-mno.mp3" length="49313552" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Het was weer een gezellige aflevering met veel gepraat over Samsung vs. Apple, de nieuwe iPhone, Neil Armstrong als baas en eikel, drie astronauten die een satelliet verslepen, een rus met lucht gevuld pak en een leuk spel als apptipafsluitert.
@@ -10014,7 +10012,7 @@ Meer op onze website: &lt;a href="http://appelsenperenshow.nl/"&gt;Appels en Per
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/57088841</guid>
 	  <pubDate>Tue, 21 Aug 2012 20:36:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/3b63aa28-dfd8-42a1-9146-a44324143679-mno.mp3" length="41022392" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/3b63aa28-dfd8-42a1-9146-a44324143679-mno.mp3" length="41022392" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een zomerse warme aflevering weer maar er is uiteindelijk toch weer veel gebeurt in de wondere wereld van de technologie. Zoals de Little Printer, de Curiosity Rover op Mars, Apple’s iPhone5 en iPad Mini / Air met nieuwe dockconnector en veel meer!
@@ -10092,7 +10090,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/55523382</guid>
 	  <pubDate>Tue, 07 Aug 2012 20:48:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/ee34e603-e34b-485d-8660-1edd4d98a63f-mno.mp3" length="48934832" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/ee34e603-e34b-485d-8660-1edd4d98a63f-mno.mp3" length="48934832" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>De NASA Curiosity is geland en uiteraard zijn we daar behoorlijk enthousiast over! Daarnaast hebben we het over de nieuwe dockconnector van Apple (alweer) en Google vs. Apple. We slaan nu een weekje over zodat we ook een soort van vakantie hebben maar ov...</itunes:subtitle>
@@ -10174,7 +10172,7 @@ Vind dit en meer op onze website: &lt;a href="http://appelsenperenshow.nl/"&gt;A
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/54868074</guid>
 	  <pubDate>Wed, 01 Aug 2012 20:59:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/616b4e2f-f771-4906-a96b-6662f85c6be6-mno.mp3" length="45862592" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/616b4e2f-f771-4906-a96b-6662f85c6be6-mno.mp3" length="45862592" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Het is zomer maar toch hebben we veel nieuwtjes te bespreken. We gaan van Mars naar Batman en van Outlook naar de Raspberry Pi.
@@ -10258,7 +10256,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/54144144</guid>
 	  <pubDate>Thu, 26 Jul 2012 08:39:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/a2eaac87-ac29-4822-92af-c4814569d06b-mno.mp3" length="32766512" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/a2eaac87-ac29-4822-92af-c4814569d06b-mno.mp3" length="32766512" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een speciale zomereiditie met veel vakantieleestips van Reinier. En we hebben het uiteraard over de lancering van Mountain Lion en alles wat daarbij komt kijken. We sluiten de zomerse aflevering af met muziek van Clublime.
@@ -10336,7 +10334,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/53301290</guid>
 	  <pubDate>Wed, 18 Jul 2012 20:36:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c55fef3a-72bf-452c-bac0-69496373ae9a-mno.mp3" length="43445912" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c55fef3a-72bf-452c-bac0-69496373ae9a-mno.mp3" length="43445912" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben lang gefilosofeerd over de impact van Google Glass op de toekomst. Kun je nog wel roddelen? Gaan we augmented reality brillen verbieden? Of juist verplichten? Wordt je erdoor in elkaar geslagen? En we hebben uiteraard nog actualiteit zoals de i...</itunes:subtitle>
@@ -10402,7 +10400,7 @@ Alle links uit de aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/52528162</guid>
 	  <pubDate>Wed, 11 Jul 2012 20:56:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0be62b85-d38e-4dc1-a452-b7bdbe6c888d-mno.mp3" length="48681590" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0be62b85-d38e-4dc1-a452-b7bdbe6c888d-mno.mp3" length="48681590" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Vooral heel veel vragen en opmerkingen van luisteraars; over onder andere de Walled Garden discussie van vorige week, de ModBook, SublimeText, Bløf en What Technology Wants. En daarnaast natuurlijk ook nog de actuele onderwerpen zoals de iPad mini, Windo...</itunes:subtitle>
@@ -10433,7 +10431,7 @@ Alle links vind je hier: &lt;a href="http://www.appelsenperenshow.nl/aflevering/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/51740193</guid>
 	  <pubDate>Wed, 04 Jul 2012 08:31:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/652ea018-f328-4a81-bc00-ed9b4c504f72-mno.mp3" length="53047112" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/652ea018-f328-4a81-bc00-ed9b4c504f72-mno.mp3" length="53047112" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Naast een grote discussie over het open web vs. apps hebben we het over "vakantievideo's", de Apple iTV, Facebook, Firefox OS, Windows 8 upgrade, iOS smart banners, Siri vs. Google Now, Chrome for iOS en nog zo veel meer!
@@ -10466,7 +10464,7 @@ Alle links en shownotes vind je...</itunes:subtitle>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/51072665</guid>
 	  <pubDate>Wed, 27 Jun 2012 20:42:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/fb5dcb39-1394-42ad-bcc1-3ff71457f782-mno.mp3" length="58221248" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/fb5dcb39-1394-42ad-bcc1-3ff71457f782-mno.mp3" length="58221248" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Tijdens de uitzending ging Google I/O nog even door maar wij hadden al alle belangrijke onderwerpen eruit. Zoals de nieuwe Nexus tablet en Android Jelly Bean. Maar daarnaast hebben we ook nog gefilosofeerd over een nieuwe Apple TV, NFC in de iPhone en iO...</itunes:subtitle>
@@ -10492,7 +10490,7 @@ Alle links en shownotes vind je...</itunes:subtitle>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/50304694</guid>
 	  <pubDate>Wed, 20 Jun 2012 16:53:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/9201c68c-5434-4571-a5d0-a2af3c45e732-mno.mp3" length="60153152" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/9201c68c-5434-4571-a5d0-a2af3c45e732-mno.mp3" length="60153152" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Hét grote nieuws van deze week is natuurlijk de presentatie van de Microsoft Surface. Man man man, wát een apparaat! Verder hebben we het over madurodam, Samsung, Karma en Flippo's. Maar toch vooral echt over de Microsoft Surface. Wát een ding!
@@ -10525,7 +10523,7 @@ Alle links en shownotes vind je hier: &lt;a href="http://www.appelsenperenshow.n
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/49569530</guid>
 	  <pubDate>Wed, 13 Jun 2012 16:37:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/607afdad-031e-40ac-93a6-406343b3e6b8-mno.mp3" length="65777295" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/607afdad-031e-40ac-93a6-406343b3e6b8-mno.mp3" length="65777295" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>De aflevering zit uiteraard bomvol met WWDC 2012. In het begin klinkt Wietse een beetje anders maar dat hebben we na 10 minuten opgelost. Alle nieuwtjes van de WWDC worden doorgenomen zoals de nieuwe MacBook met retina display, iOS6 en Mountain Lion. All...</itunes:subtitle>
@@ -10551,7 +10549,7 @@ Alle links en shownotes vind je hier: &lt;a href="http://www.appelsenperenshow.n
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/48089063</guid>
 	  <pubDate>Wed, 30 May 2012 21:02:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/02bce96b-02f1-4220-9987-c20c73dd2228-mno.mp3" length="51108250" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/02bce96b-02f1-4220-9987-c20c73dd2228-mno.mp3" length="51108250" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Uiteraard analyseren we de nieuwe iPhone geruchten (waar wij van denken dat ze weleens waar zouden kunnen zijn) en hebben we het over de Facebook Phone. Verder... BBQ'en, Zwarte MacBook Airs, Tim Cook bij D10, Samsung, patenten en copyright, Facebook, Go...</itunes:subtitle>
@@ -10582,7 +10580,7 @@ Alle links en shownotes vind je hier: &lt;a href="http://www.appelsenperenshow.n
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/47407216</guid>
 	  <pubDate>Thu, 24 May 2012 09:36:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/3962d57f-d624-4e47-96f8-45492cac8830-mno.mp3" length="62922342" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/3962d57f-d624-4e47-96f8-45492cac8830-mno.mp3" length="62922342" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Het begint met een positieve nooit over NuJij en een bash op Jon Gruber. De wereld op z'n kop! Verder hebben we het over de nieuwe (mogelijke) iPhone, de MacBook geruchten, Coda 2 en Diet Coda, De facebook IPO, Ruimte-onderwerpen zoals de Space X en zwar...</itunes:subtitle>
@@ -10613,7 +10611,7 @@ Alle links en shownotes vind je hier: &lt;a href="http://www.appelsenperenshow.n
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/45853497</guid>
 	  <pubDate>Wed, 09 May 2012 20:53:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/3281c886-fcfe-4789-84ef-83099775e35c-mno.mp3" length="50298328" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/3281c886-fcfe-4789-84ef-83099775e35c-mno.mp3" length="50298328" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een aflevering met iets te veel linkjes. Daarom komt de helft van de links hieronder (de extra items) niet aan bod in de aflevering. Maar toch zat de aflevering nog afgetopt vol met Al het water op aarde, Of je kan torrenten op je iPhone, Nu.nl lezers pr...</itunes:subtitle>
@@ -10644,7 +10642,7 @@ Alle links en shownotes vind je hier: &lt;a href="http://www.appelsenperenshow.n
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/45097368</guid>
 	  <pubDate>Wed, 02 May 2012 20:29:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/eba2624c-ee96-455e-a2ec-77e44c3d3548-mno.mp3" length="51242677" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/eba2624c-ee96-455e-a2ec-77e44c3d3548-mno.mp3" length="51242677" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Na dik een week zijn we terug met een te vol programma. De helft is doorgeschoven naar volgende week. We zaten namelijk al bomvol met de Samsung Apple-TV rip-off, Scott Forestall die z'n aandelen dumpt, Microsoft en Google die Dropbox van de troon prober...</itunes:subtitle>
@@ -10675,7 +10673,7 @@ Hier vind je alle links die we in de show behandelen: &lt;a href="http://www.app
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/44179226</guid>
 	  <pubDate>Tue, 24 Apr 2012 09:37:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/3bccf26a-ba00-4976-93a5-73fe3c0d1cf0-mno.mp3" length="46206610" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/3bccf26a-ba00-4976-93a5-73fe3c0d1cf0-mno.mp3" length="46206610" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een show vol interessante eigenaardigheden zoals: hoe maak je kaas, hoe groot is het heelal, Intel bouwt eigen telefoon, wat gaat er met de 17' MacBook Pro gebeuren, wat moet James Camaron op een astroïde, waarom je beter Entourage kunt kijken dan naar H...</itunes:subtitle>
@@ -10706,7 +10704,7 @@ Alle links en shownotes op &lt;a href="http://www.appelsenperenshow.nl/afleverin
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/43574766</guid>
 	  <pubDate>Wed, 18 Apr 2012 20:54:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/c2c34570-5000-4592-bf73-a2e763d7c1f8-mno.mp3" length="48287001" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/c2c34570-5000-4592-bf73-a2e763d7c1f8-mno.mp3" length="48287001" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een aardig stukje follow-up gevolgd door Google Drive, Rasberry Pi, iPad mini, Lodsys, Sharp, Mozilla, Samsung, Valve, Tupac, Satellieten, Ikea, Windows Phone 8, Webbrowsers uit de jaren 90, Ashton Kutcher en apptips!
@@ -10739,7 +10737,7 @@ Alle shownotes en links vind je op &lt;a href="http://www.appelsenperenshow.nl/a
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/42787153</guid>
 	  <pubDate>Wed, 11 Apr 2012 20:40:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/2a59c714-b50b-4a15-a735-38f66b6f4d80-mno.mp3" length="45389238" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/2a59c714-b50b-4a15-a735-38f66b6f4d80-mno.mp3" length="45389238" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>De nieuwe vormgeving van Google+ kwam op het nippertje van de uitzending online en in de laatste krochten meldde Facebook nog even dat je je hele account eindelijk kan verwijderen. Toch een interessant gegeven. Verder hebben we onder andere gepraat over ...</itunes:subtitle>
@@ -10770,7 +10768,7 @@ Alle shownotes en links vind je op &lt;a href="http://www.appelsenperenshow.nl/a
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/42030834</guid>
 	  <pubDate>Wed, 04 Apr 2012 20:27:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7e72a5c9-97e4-40f8-86e4-21ba579cf7f5-mno.mp3" length="39118022" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7e72a5c9-97e4-40f8-86e4-21ba579cf7f5-mno.mp3" length="39118022" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse heeft aflevering 1 van seizoen 2 Game of Thrones nog niet eens gezien, maar daar trekken we ons verder geen snars van aan. Propvolle aflevering weer waarin we de volgende zaken bespreken: De smartcover, podcasts, DevHaag, de NOS app, Apple garanti...</itunes:subtitle>
@@ -10801,7 +10799,7 @@ Alle shownotes en links vind je op &lt;a href="http://www.appelsenperenshow.nl/a
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/41260541</guid>
 	  <pubDate>Wed, 28 Mar 2012 20:29:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/68e904a9-0aec-413a-9d62-f44321316099-mno.mp3" length="41094446" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/68e904a9-0aec-413a-9d62-f44321316099-mno.mp3" length="41094446" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben allebei een haarscherp beeld op onze nieuwe iPad dus gas op die lollie! We bespreken de nieuwe iPad, de AppleTV, Siri, de mogelijke iPad mini, Retina macs, Waar Letland ligt, iOS updates OTA, WikiReader, Simcards moeten dood, Android kiddy phon...</itunes:subtitle>
@@ -10832,7 +10830,7 @@ Alle shownotes en links vind je op &lt;a href="http://www.appelsenperenshow.nl/a
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/40626977</guid>
 	  <pubDate>Thu, 22 Mar 2012 20:38:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/2f19dda0-4e34-4e67-b8db-e37b9569d0ab-mno.mp3" length="40455491" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/2f19dda0-4e34-4e67-b8db-e37b9569d0ab-mno.mp3" length="40455491" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Ondanks de kleine audioproblemen (na de opname kwamen we erachter dat Reinier via de interne microfoon van zijn Macbook had opgenomen ipv de professionele microfoon...), de brakke verbinding van Wietse en de enorme spierpijn die we hebben zijn we er toch...</itunes:subtitle>
@@ -10868,7 +10866,7 @@ Een bomvolle aflevering weer met de iPad(3), Heatgate, Nexus Tablet, Chrome, Ins
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/39774815</guid>
 	  <pubDate>Wed, 14 Mar 2012 20:51:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/8d1864f0-b453-4cd1-81ee-927430178337-mno.mp3" length="39608340" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/8d1864f0-b453-4cd1-81ee-927430178337-mno.mp3" length="39608340" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een gloednieuwe aflevering over het hacken van een router, de nieuwe iPad, Windows 8, ARM chips, chips, Roemenen, iPhoto voor iPad/iPhone, 1080p video's, Firefox en Opera, Metro en prachtige apptips natuurlijk. Gas op die lollie en gaan! Alle shownotes o...</itunes:subtitle>
@@ -10894,7 +10892,7 @@ Een bomvolle aflevering weer met de iPad(3), Heatgate, Nexus Tablet, Chrome, Ins
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/39031901</guid>
 	  <pubDate>Wed, 07 Mar 2012 20:45:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5093494d-618f-41a5-8fb7-2ca98063716a-mno.mp3" length="43264177" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5093494d-618f-41a5-8fb7-2ca98063716a-mno.mp3" length="43264177" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Uiteraard hebben we het over de aankondiging van de "New iPad" met alles erop en eraan. Daarnaast hebben we het over de opening van de Apple Store in A'dam, Google Play, de Rasberry Pi, Browsers anno 2012, domeinnamen en de amerikaanse overheid, Win*kuch...</itunes:subtitle>
@@ -10920,7 +10918,7 @@ Een bomvolle aflevering weer met de iPad(3), Heatgate, Nexus Tablet, Chrome, Ins
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/38134686</guid>
 	  <pubDate>Tue, 28 Feb 2012 18:56:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5880dd3d-6e2a-413b-9d7a-442c301e0bf4-mno.mp3" length="57496137" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5880dd3d-6e2a-413b-9d7a-442c301e0bf4-mno.mp3" length="57496137" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Muziek, Android fragmentatie en apptips. Dat is zo'n beetje de samenvatting van deze aflevering. Maar er was nog meer! De padfone van Asus, de Nokia Lumia 610, Skype voor Windows Phone, Office voor de iPad, Boot to Gecko, Nederlandse uitvinder met iPad s...</itunes:subtitle>
@@ -10946,7 +10944,7 @@ Een bomvolle aflevering weer met de iPad(3), Heatgate, Nexus Tablet, Chrome, Ins
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/37497450</guid>
 	  <pubDate>Wed, 22 Feb 2012 20:30:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/879cd50a-afb5-4384-93c6-fd8485c7bb0b-mno.mp3" length="40410822" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/879cd50a-afb5-4384-93c6-fd8485c7bb0b-mno.mp3" length="40410822" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse is er weer bij voor een aflevering vol Apple. Mountain Lion komt langs, de iPad 3 wordt besproken en we hebben het over alles wat er mis is in de film-industrie. Teveel om hier te omschrijven, let's go! Shownotes voor deze aflevering vind je op on...</itunes:subtitle>
@@ -10972,7 +10970,7 @@ Een bomvolle aflevering weer met de iPad(3), Heatgate, Nexus Tablet, Chrome, Ins
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/36711385</guid>
 	  <pubDate>Wed, 15 Feb 2012 16:21:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/063ce70c-b0de-4a97-9852-289e9f246888-mno.mp3" length="2991459" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/063ce70c-b0de-4a97-9852-289e9f246888-mno.mp3" length="2991459" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse is helaas ziek dus daarom geen reguliere aflevering. NOOOOO!! Om het leed iets (maar dan ook echt iets) te verzachten gooit Reinier er nog wel even drie nieuwtjes tegenaan. Volgende week weer een kans!
@@ -11006,7 +11004,7 @@ Links uit deze aflevering: Clear, Apple CEO ...</itunes:subtitle>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/35990528</guid>
 	  <pubDate>Wed, 08 Feb 2012 21:15:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/d08de642-bdc0-4768-b574-3d5a1bc7dadb-mno.mp3" length="46295687" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/d08de642-bdc0-4768-b574-3d5a1bc7dadb-mno.mp3" length="46295687" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We beginnen met IKEA batterijen en we eindigen met 3D printen. Daar tussenin hebben we het over de (niet naderende) elfstedentocht, Yoshi het superpeerd, Mozilla met pushnotifications, via je adem je gezondheid testen, Chrome voor Android, Windows Phone ...</itunes:subtitle>
@@ -11037,7 +11035,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/35256510</guid>
 	  <pubDate>Wed, 01 Feb 2012 20:38:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/04b63c6f-6a68-448d-81b6-6ea750779316-mno.mp3" length="41480797" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/04b63c6f-6a68-448d-81b6-6ea750779316-mno.mp3" length="41480797" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Arie Boomsma, Tampon Hockey en Infraroodeieren in één podcast, dat is Appels en Peren! Verder hebben we het over Microsoft xBox LIVE platform, Apple en haar patenten, HP opensourced WebOS, Google is evil, Facebook naar de beurs?, Ouwe Mac, Nieuwe Blackbe...</itunes:subtitle>
@@ -11068,7 +11066,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/34530258</guid>
 	  <pubDate>Wed, 25 Jan 2012 21:06:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/1feceebd-9a9a-4346-8667-aaaa9e870572-mno.mp3" length="50753222" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/1feceebd-9a9a-4346-8667-aaaa9e870572-mno.mp3" length="50753222" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Een aflevering met veel Apple. We hebben het over het Education Event, de gevolgen daarvan en de bekendmaking van de cijfers van het laatste kwartaal. Apple gaat door het plafond! Verder nog een hoop apptips en iets over Mega Upload. Have fun! Bekijk de ...</itunes:subtitle>
@@ -11094,7 +11092,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/33809590</guid>
 	  <pubDate>Wed, 18 Jan 2012 20:48:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/ba1fcb7e-6648-4732-9352-dbbeeb4ca33e-mno.mp3" length="58026864" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/ba1fcb7e-6648-4732-9352-dbbeeb4ca33e-mno.mp3" length="58026864" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We hebben het over de slappe harde kaak van Wietse, SOPA, het Apple Educatie Evenement van 19 januari, Smartwatches, Google en Gametips voor iPhone en iPad. Shownotes voor aflevering 21 op onze nieuwe website!</itunes:subtitle>
@@ -11120,7 +11118,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/33099577</guid>
 	  <pubDate>Wed, 11 Jan 2012 20:39:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/a5eedf4e-3aab-4361-ae7b-77df89e7d969-mno.mp3" length="44279295" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/a5eedf4e-3aab-4361-ae7b-77df89e7d969-mno.mp3" length="44279295" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Na de uitleg van Reinier over hoe de perfecte geitenkaasprut te maken is hebben we het over The Pirate Bay, iPhone 5 jaar, Fusion IO, Apple neemt Anobit over, iPad 3 mogelijk in productie, Apple personeel op CES, Femtocell, HDMI Android Dongle, Belkin We...</itunes:subtitle>
@@ -11146,7 +11144,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/32227151</guid>
 	  <pubDate>Mon, 02 Jan 2012 20:26:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/aab26683-ce9a-4dbf-88e3-44dd0b31c354-mno.mp3" length="50874462" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/aab26683-ce9a-4dbf-88e3-44dd0b31c354-mno.mp3" length="50874462" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>We geven extra gas voor deze eerste aflevering van 2012! We beginnen met een paartje pot over nieuwjaar en we hebben het over apps op de AppleTV, het killen van je iOs apps, 4 miljoen Kindles verkocht, Mame, Google Chrome, Rasberry Pi’s op eBay, Hackers ...</itunes:subtitle>
@@ -11172,7 +11170,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/31824274</guid>
 	  <pubDate>Wed, 28 Dec 2011 21:11:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/cfa2c12c-d1de-4fc1-a556-991520e177c2-mno.mp3" length="53517162" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/cfa2c12c-d1de-4fc1-a556-991520e177c2-mno.mp3" length="53517162" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Deze aflevering gaat over alles wat in 2012 gaat gebeuren met Google, Microsoft en Apple inclusief een voorspelling van Wietse over de verschillende AppleTV varianten. We hebben het ook nog over infographics, Kindle Fire Phone, Gecko OS, Darknet en de Me...</itunes:subtitle>
@@ -11198,7 +11196,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/31256385</guid>
 	  <pubDate>Wed, 21 Dec 2011 20:17:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/19c1d74f-7be2-4324-8710-d2d9a50bc504-mno.mp3" length="41338124" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/19c1d74f-7be2-4324-8710-d2d9a50bc504-mno.mp3" length="41338124" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Deze aflevering gaat het over Creepy Facebook, Batman, EA en Gameloft stunten met prijzen, Google, Apple Kinect (klein beetje), HTML5 radiologie, weer Google, Mozilla, Boy Zonderman en Nowbox. Meer info op onze website: http://aepp.nl/post/14575859287/17...</itunes:subtitle>
@@ -11224,7 +11222,7 @@ De shownotes staan op onze website: &lt;a href="http://www.appelsenperenshow.nl/
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/30013380</guid>
 	  <pubDate>Wed, 07 Dec 2011 21:18:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/6eb57099-217d-45b0-9ec7-1242d4780245-mno.mp3" length="58969635" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/6eb57099-217d-45b0-9ec7-1242d4780245-mno.mp3" length="58969635" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Handige links: Appels en Peren website, Facebook page, Google Plus Page, Inschrijven voor de Appels en Peren nieuwsbrief en onze twitter @appelsperenshow
@@ -11279,7 +11277,7 @@ Weer een bomvolle aflevering over Google Native Client, Gratis Apps en de nadele
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/29297805</guid>
 	  <pubDate>Tue, 29 Nov 2011 21:09:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/56a7e7f9-7588-427f-92d4-b804df609e0b-mno.mp3" length="62372386" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/56a7e7f9-7588-427f-92d4-b804df609e0b-mno.mp3" length="62372386" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Handige links: Appels en Peren website, Facebook page, Google Plus Page, Inschrijven voor de Appels en Peren nieuwsbrief
@@ -11322,7 +11320,7 @@ Totdat Soundcloud onze mooie shownotes niet meer door de mangel haalt (zie voorg
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/28805349</guid>
 	  <pubDate>Wed, 23 Nov 2011 20:46:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/b8fc1cd7-f7e8-48f0-8b2e-31c9d53af132-mno.mp3" length="58044836" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/b8fc1cd7-f7e8-48f0-8b2e-31c9d53af132-mno.mp3" length="58044836" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse wil het heel erg graag weer over telefoons hebben, zijn favoriete onderwerp. Verder hebben we het over Yandex, Google Chrome for iPad, spionnen in je telefoon, Peter, Stamped, Square, en veel veel meer.
@@ -11393,7 +11391,7 @@ Onderwerpen + shownotes
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/28189904</guid>
 	  <pubDate>Wed, 16 Nov 2011 21:09:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/33185333-9e0d-40c5-9e6c-3eca773f7263-mno.mp3" length="58021013" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/33185333-9e0d-40c5-9e6c-3eca773f7263-mno.mp3" length="58021013" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Wietse praat lekker door over AppleTV 3, we stippen toch nog even de biografie over Steve Jobs aan (flutboek) en gaan verder over Republic Wireless (androidmeuk), Apple als GSM provider (never gonna happen) en Kindle Fire. En wat er allemaal niet tussend...</itunes:subtitle>
@@ -11487,7 +11485,7 @@ iCloud notifications
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/27562507</guid>
 	  <pubDate>Wed, 09 Nov 2011 09:47:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/16d4450c-e948-426e-911d-f441ad94776e-mno.mp3" length="58853169" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/16d4450c-e948-426e-911d-f441ad94776e-mno.mp3" length="58853169" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Sponsors voor deze aflevering zijn: NulEuroHosting en Homepad. We doen voor de nieuwe luisteraars die ergens halverwege zijn aangehaakt (dat zijn er nogal wat) een kleine introductie over wie Wietse en Reinier nou eigenlijk zijn. Daarnaast is het om plan...</itunes:subtitle>
@@ -11513,7 +11511,7 @@ iCloud notifications
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/27023865</guid>
 	  <pubDate>Wed, 02 Nov 2011 21:18:00 +0100</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0d9b9eab-44b8-447a-8215-18153e11f241-mno.mp3" length="55001258" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0d9b9eab-44b8-447a-8215-18153e11f241-mno.mp3" length="55001258" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Cover artwork gemaakt door Nozzman, moet nu als het goed is in iTunes en instacast verschijnen — bandbreedte wordt deze week wederom verzorgd door SoundCloud
@@ -11576,7 +11574,7 @@ Uitslag winnaar boek Steve Jobs is… <a href="http://twitter.com/piels" target=
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/26472695</guid>
 	  <pubDate>Wed, 26 Oct 2011 21:42:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0f324f69-e268-43b6-b9f3-974fd890c273-mno.mp3" length="63680180" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0f324f69-e268-43b6-b9f3-974fd890c273-mno.mp3" length="63680180" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Deze aflevering ging voornamelijk over Nozzman, Tweakers, de Apple TV (de iTV, niet de AppleTV), Nest, The Internet Of Things en Nokia Windows Phone. Voor onze speciale Steve Jobs Biografie weggeef-actie, zie onderaan deze shownotes!
@@ -11667,7 +11665,7 @@ Dit is een voorbeeld van een goede tweet (zonder quotes natuurlijk):</p>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/25926905</guid>
 	  <pubDate>Wed, 19 Oct 2011 21:00:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/0c31fa3a-71dc-4920-b5cf-30e18fc280d4-mno.mp3" length="33328192" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/0c31fa3a-71dc-4920-b5cf-30e18fc280d4-mno.mp3" length="33328192" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Aflevering 8 ging voornamelijk over Blackberry, iOS5, Skunkworks, Ultrabooks, Instapaper, Amazon.
@@ -11738,7 +11736,7 @@ Sponsor 2: <a href="http://wintersporters.nl/">Wintersporters.nl</a></p>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/25390363</guid>
 	  <pubDate>Wed, 12 Oct 2011 21:01:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/6b82a58b-ea65-4f43-811d-939e742298b2-mno.mp3" length="59447925" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/6b82a58b-ea65-4f43-811d-939e742298b2-mno.mp3" length="59447925" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Aflevering 7 ging voornamelijk over Siri, iOS5 en de Facebook iPad app maar ook over Apple Analysten, Raven for Mac, Walking Dead, Charis en Pan Am.
@@ -11824,7 +11822,7 @@ Sponsor 2: <a href="http://wintersporters.nl/">Wintersporters.nl</a></p>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/24933552</guid>
 	  <pubDate>Thu, 06 Oct 2011 21:10:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/5281e2c6-b48e-468f-b610-82ea669ae747-mno.mp3" length="50590116" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/5281e2c6-b48e-468f-b610-82ea669ae747-mno.mp3" length="50590116" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Afl. 6 — Steve Jobs is niet meer
@@ -11883,7 +11881,7 @@ Steve...</itunes:subtitle>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/24827829</guid>
 	  <pubDate>Wed, 05 Oct 2011 20:46:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/937975db-75f7-4312-8d02-b28340690190-mno.mp3" length="54098048" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/937975db-75f7-4312-8d02-b28340690190-mno.mp3" length="54098048" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>- - - Deze aflevering is opgenomen voordat het nieuws over het overlijden van Steve Jobs bekend werd. We lassen daarom een extra aflevering van Appels en Peren in om het daarover te hebben.
@@ -11959,7 +11957,7 @@ Begeleidende links bij deze aflevering:
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/24369330</guid>
 	  <pubDate>Wed, 28 Sep 2011 21:44:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/779a9caf-b08a-45ce-bc67-441487587af7-mno.mp3" length="31366292" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/779a9caf-b08a-45ce-bc67-441487587af7-mno.mp3" length="31366292" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Vers van de pers: de Amazon Kindle Fire is gelanceerd! Daarnaast hebben we het nog over Facebook F8, Spotify, Rabbit Island, Tim Zaman en z'n satellites, Terra Nova en Person of Interest.
@@ -12020,7 +12018,7 @@ Links uit deze aflevering
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/23858472</guid>
 	  <pubDate>Wed, 21 Sep 2011 21:17:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/7f77ab27-14b9-4e8a-8267-419ba7610648-mno.mp3" length="23199369" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/7f77ab27-14b9-4e8a-8267-419ba7610648-mno.mp3" length="23199369" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Voornamelijk Windows 8, Facebook F8 en een tikkie iPhone5.
@@ -12076,7 +12074,7 @@ Links naar onderwerpen in de aflevering:</p>
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/22951564</guid>
 	  <pubDate>Fri, 09 Sep 2011 11:13:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/aff4e52a-9efa-497d-b391-f853bb7cce9f-mno.mp3" length="33911454" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/aff4e52a-9efa-497d-b391-f853bb7cce9f-mno.mp3" length="33911454" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Aflevering 2 van Appels en Peren gaat over de Amazon Tablet, Jeff Bossos, Tweakers, Amazon Prime, Wietse’s weblog, Rasberry Pi, S-Video/Composiet/Coaxiaal, Kahn Academy, Google, Apple, iPhone5, Game of Thrones, Sony’s tablet DOA, Playstation, Playstation...</itunes:subtitle>
@@ -12107,7 +12105,7 @@ Kijk hier voor de shownotes: http://aepp.nl/post/9990826527/aflevering-2-gast-ik
 	  <guid isPermaLink="false">tag:soundcloud,2010:tracks/22726243</guid>
 	  <pubDate>Tue, 06 Sep 2011 15:28:00 +0200</pubDate>
 	  <author>Reinier Ladan</author>
-	  <enclosure url="https://f002.backblazeb2.com/file/appels-en-peren-show/d569c515-48aa-47d1-b3f1-2a0b8a752d92-mno.mp3" length="37882067" type="audio/mpeg"/>
+	  <enclosure url="https://podcast-archief.s3.fr-par.scw.cloud/appelsenperenshow/d569c515-48aa-47d1-b3f1-2a0b8a752d92-mno.mp3" length="37882067" type="audio/mpeg"/>
 	  <itunes:episodeType>full</itunes:episodeType>
 	  <itunes:author>Reinier Ladan</itunes:author>
 	  <itunes:subtitle>Dit is afl. 1 van de podcast "Appels en Peren" van Wietse en Reinier. Een aflevering over Steve Jobs, HP en waar het verder met Apple naartoe gaat. Aan de naam en intro wordt nog aan gewerkt. Maar hier moet de luisteraar het even mee doen. Suggesties voo...</itunes:subtitle>
